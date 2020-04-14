@@ -1,0 +1,23 @@
+{
+    "Header": {
+        "title": "Family De La Salle",
+        "paragraph": ""
+
+    },
+    "Contact": [{
+        "address": "Ottawa Ontario Canada ",
+        "phone": "+1 613 608 6215",
+        "email": "liannedelasalle@gmail.com"
+    },{
+        "address": "Ottawa Ontario Canada 2",
+        "phone": "+1 613 608 6215",
+        "email": "liannedelasalle@gmail.com"
+    }],
+    "Timeline": {
+    "date": "new Date(2013, 9, 27)",
+    "text": "Sed leo elit, pellentesque sit amet congue quis, ornare nec lorem.",
+    "title": "Cairo, Egypt",
+    "buttonText": "Click Me",
+    "imageUrl": "http://github.com/aaron9000/react-image-timeline/blob/master/src/assets/cairo.jpg?raw=true"
+    }
+}

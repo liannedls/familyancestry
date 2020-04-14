@@ -37,7 +37,7 @@ export class Contact extends Component {
               <div className="row" >
                 <div className="section-title">
                   <h2>Get In Touch</h2>
-                  <p>Please fill out the form below and I will get back to you as soon as possible.</p>
+                  <p>Do you know something about the De La Salle family that we missed? Send us a message!</p>
                 </div>
                 <form id = "myform" className="contact-form"  onSubmit={this.handleSubmit}>
                   <div class="form-row">
@@ -63,13 +63,13 @@ export class Contact extends Component {
             <div className="col-md-3 col-md-offset-1 contact-info">
               <div className="contact-item">
                 <h3>Contact Info</h3>
-                <p><span><i className="fa fa-map-marker"></i> Address</span>{this.props.data ? this.props.data.address : 'loading'}</p>
+                <p><span><i className="fa fa-map-marker"></i> Address</span>Ottawa Ontario Canada</p>
               </div>
               <div className="contact-item">
-                <p><span><i className="fa fa-phone"></i> Phone</span> {this.props.data ? this.props.data.phone : 'loading'}</p>
+                <p><span><i className="fa fa-phone"></i> Phone</span>+1-613-608-6215</p>
               </div>
               <div className="contact-item">
-                <p><span><i className="fa fa-envelope-o"></i> Email</span> {this.props.data ? this.props.data.email : 'loading'}</p>
+                <p><span><i className="fa fa-envelope-o"></i> Email</span>liannedelasalle@gmail.com</p>
               </div>
             </div>
           </div>

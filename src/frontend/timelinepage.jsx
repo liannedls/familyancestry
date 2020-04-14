@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Timeline2 from './timeline';
+import TimelineElement from './timeline';
 import $ from 'jquery';
 
 export class Timelinepage extends Component {
@@ -28,7 +28,7 @@ export class Timelinepage extends Component {
     return (
 
         <div id="timelinepage">
-        <Timeline2  data={this.state.resumeData.Contact}/>
+        <TimelineElement  data={this.state.resumeData.Timeline}/>
       </div>
     )
   }
