@@ -1,0 +1,54 @@
+{
+    "familytree": [
+        {
+      "id":0,
+      "class":"element element0",
+      "first name": "Lianne",
+      "last name": "de la Salle",
+      "DOB": "1994-04-21",
+      "DOD": "",
+      "gender":"pink",
+      "src": "http://github.com/aaron9000/react-image-timeline/blob/master/src/assets/cairo.jpg?raw=true"
+          },
+        {
+      "id":1,
+      "class":"element element1",
+      "first name": "Sara",
+      "last name": "de la Salle",
+      "DOB": "",
+      "DOD": "",
+      "gender":"pink",
+      "src": "http://github.com/aaron9000/react-image-timeline/blob/master/src/assets/cairo.jpg?raw=true"
+        },
+      {
+      "id":2,
+      "class":"element element2",
+      "first name": "Joel",
+      "last name": "de la Salle",
+      "DOB": "",
+      "DOD": "",
+      "gender":"blue",
+      "src": "http://github.com/aaron9000/react-image-timeline/blob/master/src/assets/cairo.jpg?raw=true"
+        },
+        {
+      "id":3,
+      "class":"element element3",
+      "first name": "Gilles",
+      "last name": "de la Salle",
+      "DOB": "",
+      "DOD": "",
+      "gender":"blue",
+      "src": "http://github.com/aaron9000/react-image-timeline/blob/master/src/assets/cairo.jpg?raw=true"
+          },
+        {
+      "id":4,
+      "class":"element element4",
+      "first name": "Linda",
+      "last name": "Robinson",
+      "DOB": "",
+      "DOD": "",
+      "gender":"pink",
+      "src": "http://github.com/aaron9000/react-image-timeline/blob/master/src/assets/cairo.jpg?raw=true"
+          }
+        ]
+}
