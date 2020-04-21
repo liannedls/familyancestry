@@ -4,6 +4,7 @@ import Navigation from './navigation';
 export class App extends Component {
 
   render() {
+
     return (
       <div>
         <Navigation />

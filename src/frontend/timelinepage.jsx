@@ -24,6 +24,8 @@ export class Timelinepage extends Component {
     componentDidMount(){
       this.getResumeData();
     }
+
+
   render() {
     return (
 

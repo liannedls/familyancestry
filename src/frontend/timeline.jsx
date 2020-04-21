@@ -2,19 +2,26 @@ import React, { Component } from 'react'
 import {Timeline, Events, ImageEvent} from '@merc/react-timeline';
 
 export class TimelineElement extends Component {
+
   render() {
+    const convert = Object.values(this.props);
+    const result = convert[0];
+
     return (
         <div id="timeline">
         <Timeline>
           <Events>
-          {this.props.data ? this.props.data.map(d =>
+          {result ? result.sort(function(a, b) {
+        // convert date object into number to resolve issue in typescript
+        return  +new Date(a.date) - +new Date(b.date);
+      }).map(d =>
             <ImageEvent
-            date={d ?d.date : 'loading'}
+            date={d ? d.date : 'loading'}
             text={d ?d.text : 'loading'}
             src={d ?d.src : 'loading'}
             credit={d ?d.textBelow : 'loading'}
             />
-          ): 'loading'}
+          ): 'loading'        }
            </Events>
          </Timeline>
    </div>
