@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import emailjs from 'emailjs-com';
 
-export class Contact extends Component {
+class Contact extends Component {
 
   constructor(props) {
     super(props);
@@ -40,14 +40,14 @@ export class Contact extends Component {
                   <p>Do you know something about the De La Salle family that we missed? Send us a message!</p>
                 </div>
                 <form id = "myform" className="contact-form"  onSubmit={this.handleSubmit}>
-                  <div class="form-row">
-                    <div class="form-group col-md-4">
+                  <div className="form-row">
+                    <div className="form-group col-md-4">
                       <div className="form-group">
                         <input type="text" id="name" className="form-control" placeholder="Name" required/>
                         <p className="help-block text-danger"></p>
                       </div>
                     </div>
-                    <div class="form-group col-md-6">
+                    <div className="form-group col-md-6">
                       <div className="form-group">
                         <input type="email" id="email" className="form-control" placeholder="Email" required />
                         <p className="help-block text-danger"></p>

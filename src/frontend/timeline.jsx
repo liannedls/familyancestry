@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import {Timeline, Events, ImageEvent} from '@merc/react-timeline';
 
-export class TimelineElement extends Component {
+class TimelineElement extends Component {
 
   render() {
     const convert = Object.values(this.props);
@@ -10,7 +10,7 @@ export class TimelineElement extends Component {
     return (
         <div id="timeline">
         <Timeline>
-          <Events>
+          <Events   styles = {{color:"red", backgroundColor:"red"}}>
           {result ? result.sort(function(a, b) {
         // convert date object into number to resolve issue in typescript
         return  +new Date(a.date) - +new Date(b.date);
@@ -20,7 +20,8 @@ export class TimelineElement extends Component {
             text={d ?d.text : 'loading'}
             src={d ?d.src : 'loading'}
             credit={d ?d.textBelow : 'loading'}
-            />
+
+                      />
           ): 'loading'        }
            </Events>
          </Timeline>

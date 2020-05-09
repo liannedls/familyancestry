@@ -2,21 +2,21 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './frontend/App';
-import Timelinepage from './frontend/timelinepage';
-import Tree from './frontend/tree';
-import Gallery from './frontend/gallery';
-import Contact from './frontend/contact';
+import Timelinepage from './frontend/TimelinePage';
+import Tree from './frontend/Tree.tsx';
+import Contact from './frontend/Contact';
 import { Route, BrowserRouter as Router } from 'react-router-dom'
+import Navigation from './frontend/Navigation';
 
 const routing = (
 
   <Router>
     <div>
-    <Route path="/" component={App} />
+      <Navigation />
+    <Route exact path="/" component={App} />
       <Route path="/timelinepage" component={Timelinepage} />
       <Route path="/contact" component={Contact} />
       <Route path="/tree" component={Tree} />
-      <Route path="/gallery" component={Gallery} />
     </div>
   </Router>
 )

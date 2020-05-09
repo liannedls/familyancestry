@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import TimelineElement from './timeline';
+import TimelineElement from './Timeline';
 import $ from 'jquery';
 
 export class Timelinepage extends Component {
@@ -8,7 +8,7 @@ export class Timelinepage extends Component {
     }
     getResumeData(){
       $.ajax({
-        url:'/data.json',
+        url:'/familyevents.json',
         dataType:'json',
         cache: false,
         success: function(data){
