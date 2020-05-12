@@ -6,27 +6,33 @@
   },
   "Timeline": [
     {
-      "date": "2019-06-14",
-      "text": "Sed leo elit, pellentesque sit amet congue quis, ornare nec lorem.",
-      "textBelow": "desc[See more](/contact)",
-      "src": "/img/6.jpg"
+      "date": "1994-04-21",
+      "text": "Lianne de la Salle is born at the Ottawa Civic Hospital",
+      "textBelow": "desc[See more](/)",
+      "src": "/img/lianne.jpg"
+    },{
+      "date": "1990-02-28",
+      "text": "Sara de la Salle is born at the Ottawa Civic Hospital",
+      "src": "/img/sara.jpg"
+    },{
+      "date": "1987-04-15",
+      "text": "Joel de la Salle is born at the Ottawa Civic Hospital",
+      "src": "/img/joel.jpg"
+    },{
+      "date": "1946-10-21",
+      "text": "Gilles de la Salle is born"
+    },{
+      "date": "1954-01-23",
+      "text": "Linda Robsinson is born"
+    },{
+      "date": "1941-08-30",
+      "text": "Jean-Baptiste de la Salle and Isabelle Parent are married, at Sacré-Coeur d'Ottawa",
+      "src": "/img/grandpaAndGrandma.jpg"
     },
     {
-      "date": "2017-06-14",
-      "text": "Sed leo elit, pellentesque sit amet congue quis, ornare nec lorem.",
-      "textBelow": "desc[See more](/contact)"
-    },
-    {
-      "date": "2015-06-14",
-      "text": "Sed leo elit, pellentesque sit amet congue quis, ornare nec lorem.",
-      "textBelow": "desc[See more](/contact)",
-      "src": "http://github.com/aaron9000/react-image-timeline/blob/master/src/assets/cairo.jpg?raw=true"
-    },
-    {
-      "date": "2019-06-14",
-      "text": "Sed leo elit, pellentesque sit amet congue quis, ornare nec lorem.",
-      "textBelow": "desc[See more](/contact)",
-      "src": "http://github.com/aaron9000/react-image-timeline/blob/master/src/assets/cairo.jpg?raw=true"
+      "date": "1902-01-28",
+      "text": "Jean Baptiste de la Salle is born",
+      "src":"/img/JeanBaptisteAdolescent.jpg"
     }
   ]
 }

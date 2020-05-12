@@ -2,6 +2,7 @@
   position: absolute;
   display: flex;
   padding: 10px;
+  z-index: 0;
 }
 
 .inner {
@@ -9,11 +10,10 @@
   flex: 1;
   border: 2px solid rgba(0, 0, 0, .2);
   border-radius: 10px;
-    background: white;
 }
 
 .male {
-  background: #a4ecff;
+  background: #cceeff;
 }
 
 .female {
@@ -21,8 +21,7 @@
 }
 
 .isRoot {
-  border-color: rgba(0, 0, 0, .4);
-  background: green;
+  border-color: rgb(191, 128, 255);
 }
 
 .sub {
@@ -49,9 +48,46 @@
   z-index: 11;
 }
 
-p{
+.person{
   color: black;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    vertical-align: middle;
 }
-i{
-  background: green;
+
+.popup{
+
+    width:300px;
+    position: relative;
+    background: "#f2eecb";
+    padding: "0px";
+    border: "none";
+}
+
+.popupContent{
+  font-size: 15px;
+  color: red;
+  position: relative;
+  float: left;
+}
+.popupTop{
+  font-size: 20px;
+  color: pink;
+  position: relative;
+  float: top;
+}
+
+.popup-content{
+  width: 300px;
+}
+
+img{
+    max-height: 200px;
+    position: relative;
+float: right;
+padding-right: 10px;
 }

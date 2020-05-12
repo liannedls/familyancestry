@@ -24,13 +24,11 @@
 
 .wrapper {
   display: flex;
-  background-color: red;
   height: 750px;
 }
 
 .tree {
   border-radius: 18px;
-    background-color: blue;
 }
 
 .reset {
@@ -43,7 +41,4 @@
   border-radius: 4px;
   line-height: 10;
   cursor: pointer;
-}
-i{
-  background: white;
 }

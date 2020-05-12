@@ -1,174 +1,20 @@
 [
   {
-    "id": "HkqEDLvxE",
-    "name": "male 1",
-    "gender": "male",
-    "parents": [
-      {
-        "id": "011jVS4rb",
-        "type": "blood"
-      },
-      {
-        "id": "PXACjDxmR",
-        "type": "blood"
-      }
-    ],
-    "siblings": [
-      {
-        "id": "kuVISwh7w",
-        "type": "blood"
-      },
-      {
-        "id": "UIEjvLJMd",
-        "type": "blood"
-      },
-      {
-        "id": "ZVi8fWDBx",
-        "type": "blood"
-      }
-    ],
-    "spouses": [],
-    "children": []
-  },
-  {
-    "id": "011jVS4rb",
-
-    "name": "male 2",
-    "gender": "male",
-    "parents": [
-      {
-        "id": "ypu71w9_Q",
-        "type": "blood"
-      },
-      {
-        "id": "GEf8zF7A4",
-        "type": "blood"
-      }
-    ],
-    "children": [
-      {
-        "id": "HkqEDLvxE",
-        "type": "blood"
-      },
-      {
-        "id": "kuVISwh7w",
-        "type": "blood"
-      },
-      {
-        "id": "UIEjvLJMd",
-        "type": "blood"
-      },
-      {
-        "id": "ZVi8fWDBx",
-        "type": "blood"
-      }
-    ],
-    "siblings": [],
-    "spouses": [
-      {
-        "id": "PXACjDxmR",
-        "type": "married"
-      }
-    ]
-  },
-  {
-    "id": "PXACjDxmR",
-    "name": "female 13",
-    "gender": "female",
-    "parents": [
-      {
-        "id": "2DlrR0fK8",
-        "type": "blood"
-      }
-    ],
-    "children": [
-      {
-        "id": "HkqEDLvxE",
-        "type": "blood"
-      },
-      {
-        "id": "kuVISwh7w",
-        "type": "blood"
-      },
-      {
-        "id": "UIEjvLJMd",
-        "type": "blood"
-      },
-      {
-        "id": "ZVi8fWDBx",
-        "type": "blood"
-      }
-    ],
-    "siblings": [
-      {
-        "id": "H-06WvsfJ",
-        "type": "blood"
-      }
-    ],
-    "spouses": [
-      {
-        "id": "011jVS4rb",
-        "type": "married"
-      }
-    ]
-  },
-  {
-    "id": "kuVISwh7w",
-
-    "name": "male 3",
-    "gender": "male",
-    "parents": [
-      {
-        "id": "011jVS4rb",
-        "type": "blood"
-      },
-      {
-        "id": "PXACjDxmR",
-        "type": "blood"
-      }
-    ],
-    "children": [
-      {
-        "id": "Fbc9iwnJl",
-        "type": "blood"
-      }
-    ],
-    "siblings": [
-      {
-        "id": "HkqEDLvxE",
-        "type": "blood"
-      },
-      {
-        "id": "UIEjvLJMd",
-        "type": "blood"
-      },
-      {
-        "id": "ZVi8fWDBx",
-        "type": "blood"
-      }
-    ],
-    "spouses": [
-      {
-        "id": "vRSjcaDGj",
-        "type": "married"
-      }
-    ]
-  },
-  {
     "id": "UIEjvLJMd",
-
     "name": "Jean Baptiste de la Salle",
     "gender": "male",
-    "parents": [
-      {
-        "id": "011jVS4rb",
-        "type": "blood"
-      },
-      {
-        "id": "PXACjDxmR",
-        "type": "blood"
-      }
-    ],
+    "src":"/img/JeanBaptisteAdolescent.jpg",
+    "dob": "",
+    "dod": "",
+    "link": "",
+    "parents": [      {
+            "id": "JBmom",
+            "type": "blood"
+          },
+          {
+            "id": "JBdad",
+            "type": "blood"
+          } ],
     "children": [
       {
         "id": "gilles",
@@ -180,18 +26,7 @@
       }
     ],
     "siblings": [
-      {
-        "id": "HkqEDLvxE",
-        "type": "blood"
-      },
-      {
-        "id": "kuVISwh7w",
-        "type": "blood"
-      },
-      {
-        "id": "ZVi8fWDBx",
-        "type": "blood"
-      }
+
     ],
     "spouses": [
       {
@@ -203,6 +38,10 @@
   {
     "id": "isabelleparent",
     "name": "Isabelle Parent",
+    "src":"/img/JeanBaptisteAdolescent.jpg",
+    "dob": "",
+    "dod": "",
+    "link": "",
     "gender": "female",
     "parents": [],
     "children": [
@@ -224,207 +63,12 @@
     ]
   },
   {
-    "id": "vRSjcaDGj",
-
-    "name": "female 2",
-    "gender": "female",
-    "parents": [
-      {
-        "id": "6vASIIxhd",
-        "type": "blood"
-      },
-      {
-        "id": "iFiwqrWx-",
-        "type": "blood"
-      }
-    ],
-    "children": [
-      {
-        "id": "Fbc9iwnJl",
-        "type": "blood"
-      }
-    ],
-    "siblings": [],
-    "spouses": [
-      {
-        "id": "kuVISwh7w",
-        "type": "married"
-      }
-    ]
-  },
-  {
-    "id": "Fbc9iwnJl",
-
-    "name": "female 3",
-    "gender": "female",
-    "parents": [
-      {
-        "id": "kuVISwh7w",
-        "type": "blood"
-      },
-      {
-        "id": "vRSjcaDGj",
-        "type": "blood"
-      }
-    ],
-    "children": [],
-    "siblings": [],
-    "spouses": []
-  },
-  {
-    "id": "ypu71w9_Q",
-    "name": "male 66",
-    "gender": "male",
-    "parents": [
-      {
-        "id": "TsyAkbF89",
-        "type": "blood"
-      },
-      {
-        "id": "T54Km7uOC",
-        "type": "blood"
-      }
-    ],
-    "children": [
-      {
-        "id": "011jVS4rb",
-        "type": "blood"
-      }
-    ],
-    "siblings": [],
-    "spouses": [
-      {
-        "id": "GEf8zF7A4",
-        "type": "married"
-      }
-    ]
-  },
-  {
-    "id": "GEf8zF7A4",
-
-    "name": "female 4",
-    "gender": "female",
-    "parents": [
-      {
-        "id": "gsgwGS_Kw",
-        "type": "blood"
-      },
-      {
-        "id": "ZgTZx9uXQ",
-        "type": "blood"
-      }
-    ],
-    "children": [
-      {
-        "id": "011jVS4rb",
-        "type": "blood"
-      }
-    ],
-    "siblings": [],
-    "spouses": [
-      {
-        "id": "ypu71w9_Q",
-        "type": "married"
-      }
-    ]
-  },
-  {
-    "id": "2DlrR0fK8",
-    "name": "male 7",
-    "gender": "male",
-    "parents": [],
-    "children": [
-      {
-        "id": "PXACjDxmR",
-        "type": "blood"
-      },
-      {
-        "id": "H-06WvsfJ",
-        "type": "blood"
-      }
-    ],
-    "siblings": [],
-    "spouses": []
-  },
-  {
-    "id": "gsgwGS_Kw",
-    "name": "male 8",
-    "gender": "male",
-    "parents": [],
-    "children": [
-      {
-        "id": "GEf8zF7A4",
-        "type": "blood"
-      }
-    ],
-    "siblings": [],
-    "spouses": [
-      {
-        "id": "ZgTZx9uXQ",
-        "type": "married"
-      }
-    ]
-  },
-  {
-    "id": "ZgTZx9uXQ",
-
-    "name": "female 5",
-    "gender": "female",
-    "parents": [],
-    "children": [
-      {
-        "id": "GEf8zF7A4",
-        "type": "blood"
-      }
-    ],
-    "siblings": [],
-    "spouses": [
-      {
-        "id": "gsgwGS_Kw",
-        "type": "married"
-      }
-    ]
-  },
-  {
-    "id": "ZVi8fWDBx",
-    "name": "male 19",
-    "gender": "male",
-    "parents": [
-      {
-        "id": "011jVS4rb",
-        "type": "blood"
-      },
-      {
-        "id": "PXACjDxmR",
-        "type": "blood"
-      }
-    ],
-    "children": [],
-    "siblings": [
-      {
-        "id": "HkqEDLvxE",
-        "type": "blood"
-      },
-      {
-        "id": "kuVISwh7w",
-        "type": "blood"
-      },
-      {
-        "id": "UIEjvLJMd",
-        "type": "blood"
-      }
-    ],
-    "spouses": [
-      {
-        "id": "wJ1EBvc5m",
-        "type": "married"
-      }
-    ]
-  },
-  {
     "id": "gilles",
-
     "name": "Gilles",
+    "src":"/img/JeanBaptisteAdolescent.jpg",
+    "dob": "",
+    "dod": "",
+    "link": "",
     "gender": "male",
     "parents": [
       {
@@ -466,6 +110,10 @@
   {
     "id": "frank",
     "name": "Frank",
+    "src":"",
+    "dob": "",
+    "dod": "",
+    "link": "",
     "gender": "male",
     "parents": [
       {
@@ -486,15 +134,18 @@
     ],
     "spouses": [
       {
-            "id": "lianne4",
-            "type": "married"
-            }
+        "id": "donna",
+        "type": "married"
+      }
     ]
   },
   {
     "id": "linda",
-
     "name": "Linda",
+    "src":"",
+    "dob": "",
+    "dod": "",
+    "link": "",
     "gender": "female",
     "parents": [],
     "children": [
@@ -521,8 +172,11 @@
   },
   {
     "id": "lianne",
-
     "name": "Lianne",
+    "src":"",
+    "dob": "",
+    "dod": "",
+    "link": "",
     "gender": "female",
     "parents": [
       {
@@ -576,120 +230,12 @@
     "spouses": []
   },
   {
-    "id": "wJ1EBvc5m",
-
-    "name": "female 7",
-    "gender": "female",
-    "parents": [],
-    "children": [],
-    "siblings": [],
-    "spouses": [
-      {
-        "id": "ZVi8fWDBx",
-        "type": "married"
-      }
-    ]
-  },
-  {
-    "id": "TsyAkbF89",
-
-    "name": "female 17",
-    "gender": "male",
-    "parents": [],
-    "children": [
-      {
-        "id": "ypu71w9_Q",
-        "type": "blood"
-      }
-    ],
-    "siblings": [],
-    "spouses": [
-      {
-        "id": "T54Km7uOC",
-        "type": "married"
-      }
-    ]
-  },
-  {
-    "id": "T54Km7uOC",
-    "name": "female 8",
-    "gender": "female",
-    "parents": [],
-    "children": [
-      {
-        "id": "ypu71w9_Q",
-        "type": "blood"
-      }
-    ],
-    "siblings": [],
-    "spouses": [
-      {
-        "id": "TsyAkbF89",
-        "type": "married"
-      }
-    ]
-  },
-  {
-    "id": "6vASIIxhd",
-
-    "name": "female 18",
-    "gender": "male",
-    "parents": [],
-    "children": [
-      {
-        "id": "vRSjcaDGj",
-        "type": "blood"
-      }
-    ],
-    "siblings": [],
-    "spouses": [
-      {
-        "id": "iFiwqrWx-",
-        "type": "married"
-      }
-    ]
-  },
-  {
-    "id": "iFiwqrWx-",
-    "name": "female 9",
-    "gender": "female",
-    "parents": [],
-    "children": [
-      {
-        "id": "vRSjcaDGj",
-        "type": "blood"
-      }
-    ],
-    "siblings": [],
-    "spouses": [
-      {
-        "id": "6vASIIxhd",
-        "type": "married"
-      }
-    ]
-  },
-  {
-    "id": "H-06WvsfJ",
-    "name": "female 10",
-    "gender": "female",
-    "parents": [
-      {
-        "id": "2DlrR0fK8",
-        "type": "blood"
-      }
-    ],
-    "children": [],
-    "siblings": [
-      {
-        "id": "PXACjDxmR",
-        "type": "blood"
-      }
-    ],
-    "spouses": []
-  },
-  {
-    "id": "lianne4",
+    "id": "donna",
     "name": "Donna",
+    "src":"",
+    "dob": "",
+    "dod": "",
+    "link": "",
     "gender": "female",
     "parents": [],
     "children": [],
@@ -697,6 +243,54 @@
     "spouses": [
       {
         "id": "frank",
+        "type": "married"
+      }
+    ]
+  },
+  {
+    "id": "JBdad",
+    "name": "Louis-Napoleon Alfred de la Salle(dit Sanchagrin)",
+    "src":"",
+    "dob": "",
+    "dod": "",
+    "link": "",
+    "gender": "male",
+    "parents": [],
+    "children": [
+      {
+        "id": "UIEjvLJMd",
+
+        "type": "blood"
+      }
+    ],
+    "siblings": [],
+    "spouses": [
+      {
+        "id": "JBmom",
+        "type": "married"
+      }
+    ]
+  },
+  {
+    "id": "JBmom",
+    "name": "Marie Laura Ernestina Maillet",
+    "src":"",
+    "dob": "",
+    "dod": "",
+    "link": "",
+    "gender": "female",
+    "parents": [],
+    "children": [
+      {
+        "id": "UIEjvLJMd",
+
+        "type": "blood"
+      }
+    ],
+    "siblings": [],
+    "spouses": [
+      {
+        "id": "JBdad",
         "type": "married"
       }
     ]
