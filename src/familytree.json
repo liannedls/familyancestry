@@ -4,8 +4,8 @@
     "name": "Jean Baptiste de la Salle",
     "gender": "male",
     "src":"/img/JeanBaptisteAdolescent.jpg",
-    "dob": "",
-    "dod": "",
+    "dob": "1902",
+    "dod": "1976",
     "link": "",
     "parents": [      {
             "id": "JBmom",
@@ -249,7 +249,7 @@
   },
   {
     "id": "JBdad",
-    "name": "Louis-Napoleon Alfred de la Salle(dit Sanchagrin)",
+    "name": "Louis-Napoleon Alfred de la Salle",
     "src":"",
     "dob": "",
     "dod": "",

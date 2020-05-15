@@ -3,6 +3,7 @@ import classNames from 'classnames';
 import { IFamilyExtNode } from 'relatives-tree';
 import styles from './FamilyNode.module.css';
 import Modal from 'react-modal';
+import Button from 'react-bootstrap/Button';
 
 interface Props {
   node: IFamilyExtNode;
@@ -16,7 +17,7 @@ function Iflink(link){
   if (link){
       return(
         <div>
-        hello
+
         <a href={link}>See more</a>
         </div>
       )
@@ -29,7 +30,10 @@ const customStyles = {
     right                 : 'auto',
     bottom                : 'auto',
     marginRight           : '-50%',
-    transform             : 'translate(-50%, -50%)'
+    transform             : 'translate(-50%, -50%)',
+    width:'300px',
+    height:'250px',
+    background:"#e6e2d7"
   }
 };
 
@@ -43,11 +47,6 @@ export default React.memo<Props>(
     const [modalIsOpen,setIsOpen] = React.useState(false);
     function openModal() {
       setIsOpen(true);
-    }
-
-    function afterOpenModal() {
-      // references are now sync'd and can be accessed.
-      subtitle.style.color = '#f00';
     }
 
     function closeModal(){
@@ -79,26 +78,31 @@ export default React.memo<Props>(
 
         <Modal
           isOpen={modalIsOpen}
-          onAfterOpen={afterOpenModal}
           onRequestClose={closeModal}
           style={customStyles}
           contentLabel="Example Modal"
         >
 
-          <h2 ref={_subtitle => (subtitle = _subtitle)}>Hello</h2>
-          <button onClick={closeModal}>close</button>
-          <div className = {styles.popupTop}>
-            {node.name}
-
-          </div>
+          <div className = {styles.popupExit}>
+          <Button onClick={closeModal}>close</Button>
+</div>
               <div className = {styles.popupContent}>
-              DOB: {node.dob}
-              DOD: {node.dod}
-              {Iflink(node.link)}
+              <h1>
+              {node.name}
+              </h1>
+              <div>
+              DOB
+              <p>{node.dob}</p>
               </div>
+              <div>
+              DOD
+              <p> {node.dod}</p>
+              </div>
+              {Iflink(node.link)}
+
 
             <img src={node.src} />
-        
+            </div>
         </Modal>
           </div>
     );

@@ -66,28 +66,43 @@
     background: "#f2eecb";
     padding: "0px";
     border: "none";
+background-color: pink;
+    border-radius: '50px';
 }
 
 .popupContent{
   font-size: 15px;
-  color: red;
-  position: relative;
-  float: left;
+  color: #2A1C0D;
+  font-family: "Apple Chancery";
+  position: fixed;
+  max-width: 150px;
+  top: 0px;
+  padding-top: 0px;
+  font-weight: bold;
 }
-.popupTop{
+.popupContent p{
+  color: #505050;
+  font-weight: lighter;
+}
+.popupContent h1{
   font-size: 20px;
-  color: pink;
-  position: relative;
-  float: top;
+  font-weight: bold;
 }
-
-.popup-content{
-  width: 300px;
+.popupExit{
+  font-size: 20px;
+  position: fixed;
+  top: 5px;
+  right: 5px;
 }
-
-img{
-    max-height: 200px;
-    position: relative;
-float: right;
-padding-right: 10px;
+.popupContent{
+  position: fixed;
+  left: 15px;
+}
+.popupContent img{
+  max-height: 200px;
+  position: fixed;
+  right: 0px;
+  bottom: 0px;
+  border-image-width: auto;
+  border-radius: 10px;
 }

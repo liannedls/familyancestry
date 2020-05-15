@@ -29,7 +29,7 @@ export class Timelinepage extends Component {
   render() {
     return (
 
-        <div id="timelinepage">
+        <div id="timelinepage#">
         <TimelineElement  data={this.state.resumeData.Timeline}/>
       </div>
     )

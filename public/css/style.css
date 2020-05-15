@@ -488,10 +488,8 @@ color: #777;
 	background: #fff;
 }
 
-
-@media {
-#timeline img {
-	max-height: 600px;
-height: auto;
+@media (max-width: 768px) {
+#about img {
+	margin: 50px 0;
 }
 }
