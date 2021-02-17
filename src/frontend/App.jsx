@@ -5,16 +5,9 @@ class App extends Component {
   render() {
 
     return (
-      <div id="main">
-      <h1> hello this is a test test test </h1>
-
-      <h1> hello this is a test test test </h1>
-
-      <h1> hello this is a test test test </h1>
-
-      <h1> hello this is a test test test </h1>
-
-      <h1> hello this is a test test test </h1>
+      <div className="main" id="main">
+      <h1> Famille De La Salle</h1>
+      <h2>More coming soon!</h2>
       </div>
     )
   }

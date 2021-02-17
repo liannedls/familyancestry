@@ -1,0 +1,1813 @@
+0 HEAD
+1 SOUR Family Echo
+2 WWW http://www.familyecho.com/
+1 FILE My Family
+1 DATE 7 DEC 2020
+1 DEST ANSTFILE
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 SUBM @I3@
+2 NAME lianne
+1 SUBN
+1 CHAR UTF-8
+0 @I1@ INDI
+1 NAME Gilles /de la Salle/
+2 GIVN Gilles
+2 SURN de la Salle
+2 _MARNM de la Salle
+1 SEX M
+1 BIRT
+2 DATE 21 OCT 1946
+2 PLAC Ottawa
+1 OCCU Anesthesiologist
+2 PLAC Civic Hospital
+1 NOTE Bio notes: Baptisé à Notre-Dame d'Ottawa
+1 FAMS @F1@
+1 FAMC @F2@
+0 @I2@ INDI
+1 NAME Linda /Robinson/
+2 GIVN Linda
+2 SURN Robinson
+2 _MARNM Robinson
+1 SEX F
+1 BIRT
+2 DATE 23 JAN 1955
+1 FAMS @F1@
+1 FAMC @F3@
+0 @I3@ INDI
+1 NAME Lianne /de la Salle/
+2 GIVN Lianne
+2 SURN de la Salle
+2 _MARNM de la Salle
+1 SEX F
+1 BIRT
+2 DATE 21 APR 1994
+2 PLAC Ottawa Civic Hospital
+1 OCCU Engineer
+1 FAMC @F1@
+0 @I4@ INDI
+1 NAME Joel /de la Salle/
+2 GIVN Joel
+2 SURN de la Salle
+2 _MARNM de la Salle
+1 SEX M
+1 BIRT
+2 DATE 9 APR 1987
+2 PLAC Ottawa Civic Hospital
+1 OCCU Public Servant
+1 FAMC @F1@
+0 @I5@ INDI
+1 NAME Sara /de la Salle/
+2 GIVN Sara
+2 SURN de la Salle
+2 _MARNM de la Salle
+1 SEX F
+1 BIRT
+2 DATE 28 FEB 1990
+2 PLAC Ottawa Civic Hospital
+1 FAMC @F1@
+0 @I6@ INDI
+1 NAME Jean-Baptiste Joseph Alfred /de la Salle/
+2 GIVN Jean-Baptiste Joseph Alfred
+2 SURN de la Salle
+1 SEX M
+1 BIRT
+2 DATE 28 JAN 1902
+2 PLAC Ottawa
+1 DEAT Y
+2 DATE 7 NOV 1978
+2 PLAC Ottawa
+1 BURI
+2 DATE 10 NOV 1978
+2 PLAC Notre Dame d'Ottawa
+1 OCCU Public Servant
+1 FAMS @F2@
+1 FAMC @F4@
+0 @I7@ INDI
+1 NAME Isabelle /Parent/
+2 GIVN Isabelle
+2 SURN Parent
+1 SEX F
+1 BIRT
+2 DATE 26 AUG 1908
+2 PLAC Buckingham
+1 DEAT Y
+2 PLAC Ottawa
+1 FAMS @F2@
+1 FAMC @F5@
+0 @I8@ INDI
+1 NAME Jean-Francois /de la Salle/
+2 GIVN Jean-Francois
+2 SURN de la Salle
+2 _MARNM de la Salle
+1 SEX M
+1 BIRT
+2 DATE 2 APR 1943
+2 PLAC Sacré Cœur d'Ottawa
+1 OCCU Athletics Highschool Teacher
+2 PLAC De La Salle Highschool
+1 NOTE Interests: Tennis
+1 FAMS @F6@
+1 FAMC @F2@
+0 @I9@ INDI
+1 NAME James
+2 GIVN James
+1 SEX M
+1 FAMS @F3@
+1 FAMC @F7@
+0 @I10@ INDI
+1 NAME Dorothy
+2 GIVN Dorothy
+1 SEX F
+1 FAMS @F3@
+1 FAMC @F8@
+0 @I11@ INDI
+1 NAME Alan
+2 GIVN Alan
+1 SEX M
+1 FAMC @F3@
+0 @I12@ INDI
+1 NAME Danny
+2 GIVN Danny
+1 SEX M
+1 FAMC @F3@
+0 @I13@ INDI
+1 NAME Russel
+2 GIVN Russel
+1 FAMC @F3@
+0 @I14@ INDI
+1 NAME Timmy
+2 GIVN Timmy
+1 FAMC @F3@
+0 @I15@ INDI
+1 NAME
+1 SEX M
+1 FAMS @F7@
+0 @I16@ INDI
+1 NAME
+1 SEX F
+1 FAMS @F7@
+0 @I17@ INDI
+1 NAME Donna
+2 GIVN Donna
+1 SEX F
+1 FAMS @F6@
+0 @I18@ INDI
+1 NAME
+1 SEX M
+1 FAMS @F5@
+0 @I19@ INDI
+1 NAME
+1 SEX F
+1 FAMS @F5@
+0 @I20@ INDI
+1 NAME Louis-Napoléon Alfred /Sanschagrin/
+2 GIVN Louis-Napoléon Alfred
+2 SURN Sanschagrin
+2 _MARNM de la Salle
+1 SEX M
+1 BIRT
+2 DATE 20 NOV 1862
+1 DEAT Y
+2 DATE 27 JUN 1939
+1 FAMS @F4@
+1 FAMC @F9@
+0 @I21@ INDI
+1 NAME Ernestine /Maillet/
+2 GIVN Ernestine
+2 SURN Maillet
+2 _MARNM de la Salle
+1 SEX F
+1 BIRT
+2 DATE 8 AUG 1871
+1 DEAT Y
+2 DATE 6 MAR 1945
+1 FAMS @F4@
+1 FAMC @F10@
+0 @I22@ INDI
+1 NAME Jean /Maillet/
+2 GIVN Jean
+2 SURN Maillet
+2 _MARNM Maillet
+1 SEX M
+1 FAMS @F10@
+1 FAMC @F11@
+0 @I23@ INDI
+1 NAME Basiline /St-Hilaire/
+2 GIVN Basiline
+2 SURN St-Hilaire
+2 _MARNM Maillet
+1 SEX F
+1 DEAT Y
+1 FAMS @F10@
+1 FAMC @F12@
+0 @I24@ INDI
+1 NAME Marguerite Marie Marcelle Alfredine /de la Salle/
+2 GIVN Marguerite Marie Marcelle Alfredine
+2 SURN de la Salle
+2 _MARNM Scott
+1 SEX F
+1 BIRT
+2 DATE 9 JUN 1915
+2 PLAC Ottawa
+1 DEAT Y
+2 DATE 11 NOV 2000
+2 PLAC Ottawa
+1 BURI
+2 DATE NOV 2000
+2 PLAC Notre-Dame d'Ottawa
+1 NOTE Bio notes: Baptisé le 11-06-1915 à Notre-Dame d'Ottawa
+1 FAMS @F13@
+1 FAMC @F4@
+0 @I25@ INDI
+1 NAME Lionel Alphonse Jean-Baptiste Antoine Richard /de la Salle/
+2 GIVN Lionel Alphonse Jean-Baptiste Antoine Richard
+2 SURN de la Salle
+2 _MARNM de la Salle
+1 SEX M
+1 BIRT
+2 DATE 11 JAN 1897
+2 PLAC Ottawa
+1 DEAT Y
+2 DATE 18 AUG 1897
+2 PLAC Ottawa
+1 BURI
+2 DATE AUG 1897
+2 PLAC Notre-Dame d'Ottawa
+1 FAMC @F4@
+0 @I26@ INDI
+1 NAME Aurele Joseph Urgel /de la Salle/
+2 GIVN Aurele Joseph Urgel
+2 SURN de la Salle
+2 _MARNM de la Salle
+1 SEX M
+1 BIRT
+2 DATE 18 MAR 1898
+2 PLAC Ottawa
+1 DEAT Y
+2 DATE 22 DEC 1960
+2 PLAC Ottawa
+1 BURI
+2 DATE 26 DEC 1960
+2 PLAC Notre-Dame d'Ottawa
+1 FAMS @F14@
+1 FAMC @F4@
+0 @I27@ INDI
+1 NAME Albert St-Elmost /de la Salle/
+2 GIVN Albert St-Elmost
+2 SURN de la Salle
+1 SEX M
+1 BIRT
+2 DATE 10 SEP 1899
+1 FAMC @F4@
+0 @I28@ INDI
+1 NAME Robert Joseph Albert Leo /de la Salle/
+2 GIVN Robert Joseph Albert Leo
+2 SURN de la Salle
+2 _MARNM de la Salle
+1 SEX M
+1 BIRT
+2 DATE 9 JUL 1903
+2 PLAC Ottawa
+1 DEAT Y
+2 DATE 22 JUN 1913
+2 PLAC Ottawa
+1 BURI
+2 DATE 25 JUN 1913
+2 PLAC Notre-Dame d'Ottawa
+1 NOTE Bio notes: Noyé dans la rivière des Outaouais.
+1 FAMC @F4@
+0 @I29@ INDI
+1 NAME Joseph Hubert Lionel /de la Salle/
+2 GIVN Joseph Hubert Lionel
+2 SURN de la Salle
+2 _MARNM de la Salle
+1 SEX M
+1 BIRT
+2 DATE 12 AUG 1904
+2 PLAC Ottawa
+1 DEAT Y
+2 DATE 31 OCT 1906
+2 PLAC Ottawa
+1 BURI
+2 DATE 31 OCT 1906
+2 PLAC Notre-Dame d'Ottawa
+1 FAMC @F4@
+0 @I30@ INDI
+1 NAME Jean-Edgar /Scott/
+2 GIVN Jean-Edgar
+2 SURN Scott
+2 _MARNM Scott
+1 SEX M
+1 FAMS @F13@
+0 @I31@ INDI
+1 NAME Alice /Dionne/
+2 GIVN Alice
+2 SURN Dionne
+2 _MARNM de la Salle
+1 SEX F
+1 DEAT Y
+1 FAMS @F14@
+0 @I32@ INDI
+1 NAME Antoinette Marie Ernestine Sabine /de la Salle/
+2 GIVN Antoinette Marie Ernestine Sabine
+2 SURN de la Salle
+2 _MARNM Carbonneau
+1 SEX F
+1 BIRT
+2 DATE 8 AUG 1906
+2 PLAC Ottawa
+1 DEAT Y
+2 DATE 1986
+2 PLAC Ottawa
+1 BURI
+2 PLAC Notre-Dame d'Ottawa
+1 NOTE Bio notes: Baptisé le 11-08-1906 à Notre-Dame d'Ottawa
+1 FAMS @F15@
+1 FAMC @F4@
+0 @I33@ INDI
+1 NAME Joseph /Carbonneau/
+2 GIVN Joseph
+2 SURN Carbonneau
+2 _MARNM Carbonneau
+1 SEX M
+1 FAMS @F15@
+0 @I34@ INDI
+1 NAME Alexandre Gerard Octave Ernest /de la Salle/
+2 GIVN Alexandre Gerard Octave Ernest
+2 SURN de la Salle
+2 _MARNM de la Salle
+1 SEX M
+1 BIRT
+2 DATE 18 DEC 1910
+2 PLAC Ottawa
+1 NOTE Bio notes: Baptisé le 24-12-1910 à Notre-Dame d'Ottawa
+1 FAMC @F4@
+0 @I35@ INDI
+1 NAME Laval Joseph Alphonse Ernest /de la Salle/
+2 GIVN Laval Joseph Alphonse Ernest
+2 SURN de la Salle
+2 _MARNM de la Salle
+1 SEX M
+1 BIRT
+2 DATE 2 AUG 1912
+1 DEAT Y
+2 DATE 17 OCT 1912
+1 BURI
+2 DATE OCT 1912
+2 PLAC Notre Dame D'Ottawa
+1 NOTE Bio notes: Baptisé le 3-08-1912 à Notre-Dame d'Ottawa
+1 FAMC @F4@
+0 @I36@ INDI
+1 NAME Jeannine Marie Albertine Claire Charlotte /de la Salle/
+2 GIVN Jeannine Marie Albertine Claire Charlotte
+2 SURN de la Salle
+2 _MARNM de la Salle
+1 SEX F
+1 BIRT
+2 DATE 29 SEP 1913
+1 DEAT Y
+2 DATE 22 AUG 1964
+1 BURI
+2 DATE 26 AUG 1964
+2 PLAC Notre-Dame d'Ottawa
+1 NOTE Bio notes: Baptisé le 30-09-1913 à Notre-Dame d'Ottawa
+1 FAMS @F16@
+1 FAMC @F4@
+0 @I37@ INDI
+1 NAME Gerald Gratton /Gratton/
+2 GIVN Gerald Gratton
+2 SURN Gratton
+2 _MARNM Gratton
+1 SEX M
+1 FAMS @F16@
+0 @I38@ INDI
+1 NAME Cecile /de la Salle/
+2 GIVN Cecile
+2 SURN de la Salle
+2 _MARNM de la Salle
+1 FAMC @F14@
+0 @I39@ INDI
+1 NAME Rolande /de la Salle/
+2 GIVN Rolande
+2 SURN de la Salle
+2 _MARNM de la Salle
+1 FAMC @F14@
+0 @I40@ INDI
+1 NAME Robert /de la Salle/
+2 GIVN Robert
+2 SURN de la Salle
+2 _MARNM de la Salle
+1 FAMC @F14@
+0 @I41@ INDI
+1 NAME Gerard /de la Salle/
+2 GIVN Gerard
+2 SURN de la Salle
+2 _MARNM de la Salle
+1 FAMC @F14@
+0 @I42@ INDI
+1 NAME Therese /de la Salle/
+2 GIVN Therese
+2 SURN de la Salle
+2 _MARNM de la Salle
+1 FAMC @F14@
+0 @I43@ INDI
+1 NAME Jean-Guy /de la Salle/
+2 GIVN Jean-Guy
+2 SURN de la Salle
+2 _MARNM de la Salle
+1 FAMC @F14@
+0 @I44@ INDI
+1 NAME Paul /de la Salle/
+2 GIVN Paul
+2 SURN de la Salle
+2 _MARNM de la Salle
+1 FAMC @F14@
+0 @I45@ INDI
+1 NAME Joseph Octave /Lasalle Dit Sanschagrin/
+2 GIVN Joseph Octave
+2 SURN Lasalle Dit Sanschagrin
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX M
+1 BIRT
+2 DATE 1830
+1 DEAT Y
+2 DATE 1866
+1 OCCU Tanneur
+1 NOTE Bio notes: noye le 12-1866 vis-a-vis la Pointe-Levis
+1 FAMS @F9@
+1 FAMC @F17@
+0 @I46@ INDI
+1 NAME Marie /Pouliet/
+2 GIVN Marie
+2 SURN Pouliet
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX F
+1 DEAT Y
+1 FAMS @F9@
+1 FAMC @F18@
+0 @I47@ INDI
+1 NAME Joseph Jean Emile /Sanschagrin/
+2 GIVN Joseph Jean Emile
+2 SURN Sanschagrin
+2 _MARNM Sanschagrin
+1 SEX M
+1 BIRT
+2 DATE 22 JAN 1854
+1 DEAT Y
+2 DATE 10 SEP 1854
+1 BURI
+2 DATE 11 SEP 1854
+2 PLAC Notre-Dame de Levis
+1 FAMC @F9@
+0 @I48@ INDI
+1 NAME Louis-Joseph Napoleon /Sanschagrin/
+2 GIVN Louis-Joseph Napoleon
+2 SURN Sanschagrin
+2 _MARNM Sanschagrin
+1 SEX M
+1 BIRT
+2 DATE 12 JUL 1855
+1 DEAT Y
+1 FAMC @F9@
+0 @I49@ INDI
+1 NAME Francois-Xavier /Sanschagrin/
+2 GIVN Francois-Xavier
+2 SURN Sanschagrin
+2 _MARNM Sanschagrin
+1 SEX M
+1 BIRT
+2 DATE 24 MAR 1857
+1 DEAT Y
+1 FAMC @F9@
+0 @I50@ INDI
+1 NAME Belzemire /Sanschagrin/
+2 GIVN Belzemire
+2 SURN Sanschagrin
+2 _MARNM Sanschagrin
+1 SEX M
+1 BIRT
+2 DATE 18 MAR 1859
+1 DEAT Y
+1 FAMS @F19@
+1 FAMC @F9@
+0 @I51@ INDI
+1 NAME Andre /Brochu/
+2 GIVN Andre
+2 SURN Brochu
+2 _MARNM Sanschagrin
+1 SEX F
+1 FAMS @F19@
+0 @I52@ INDI
+1 NAME Marie-Philomene /Sanschagrin/
+2 GIVN Marie-Philomene
+2 SURN Sanschagrin
+2 _MARNM Sanschagrin
+1 SEX F
+1 BIRT
+2 DATE 7 NOV 1860
+1 DEAT Y
+2 DATE 24 AUG 1873
+1 FAMC @F9@
+0 @I53@ INDI
+1 NAME Marie-Victorine /Sanschagrin/
+2 GIVN Marie-Victorine
+2 SURN Sanschagrin
+2 _MARNM Sanschagrin
+1 SEX F
+1 BIRT
+2 DATE 8 SEP 1864
+1 DEAT Y
+2 DATE 28 JUL 1865
+1 FAMC @F9@
+0 @I54@ INDI
+1 NAME Marie-Rebecca /Sanschagrin/
+2 GIVN Marie-Rebecca
+2 SURN Sanschagrin
+2 _MARNM Sanschagrin
+1 SEX F
+1 BIRT
+2 DATE 8 SEP 1864
+1 DEAT Y
+2 DATE 13 AUG 1865
+1 FAMC @F9@
+0 @I55@ INDI
+1 NAME Alphonse /Sanschagrin/
+2 GIVN Alphonse
+2 SURN Sanschagrin
+2 _MARNM Sanschagrin
+1 SEX M
+1 BIRT
+2 DATE 14 SEP 1866
+1 DEAT Y
+1 FAMC @F9@
+0 @I56@ INDI
+1 NAME Francois-Xavier /Lasalle Dit Sanschagrin/
+2 GIVN Francois-Xavier
+2 SURN Lasalle Dit Sanschagrin
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX M
+1 BIRT
+2 DATE 1799
+1 DEAT Y
+2 DATE 1858
+1 FAMS @F17@
+1 FAMS @F20@
+1 FAMC @F21@
+0 @I57@ INDI
+1 NAME Archange /Faucher/
+2 GIVN Archange
+2 SURN Faucher
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX F
+1 BIRT
+2 DATE 13 AUG 1802
+1 DEAT Y
+2 DATE 7 FEB 1841
+1 FAMS @F17@
+0 @I58@ INDI
+1 NAME Francois-Xavier /Lasalle Dit Sanschagrin/
+2 GIVN Francois-Xavier
+2 SURN Lasalle Dit Sanschagrin
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX M
+1 BIRT
+2 DATE 6 AUG 1825
+1 DEAT Y
+2 DATE 31 MAY 1859
+1 FAMC @F17@
+0 @I59@ INDI
+1 NAME Pierre /Lasalle Dit Sanschagrin/
+2 GIVN Pierre
+2 SURN Lasalle Dit Sanschagrin
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX M
+1 BIRT
+2 DATE 5 NOV 1826
+1 DEAT Y
+2 DATE 11 SEP 1830
+1 FAMC @F17@
+0 @I60@ INDI
+1 NAME Jean-Baptiste /Lasalle Dit Sanschagrin/
+2 GIVN Jean-Baptiste
+2 SURN Lasalle Dit Sanschagrin
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX M
+1 BIRT
+2 DATE 25 APR 1828
+1 DEAT Y
+1 FAMS @F22@
+1 FAMC @F17@
+0 @I61@ INDI
+1 NAME Delphine /Emond/
+2 GIVN Delphine
+2 SURN Emond
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX F
+1 FAMS @F22@
+0 @I62@ INDI
+1 NAME Pierre /Lasalle Dit Sanschagrin/
+2 GIVN Pierre
+2 SURN Lasalle Dit Sanschagrin
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX M
+1 BIRT
+2 DATE 20 JAN 1832
+1 DEAT Y
+2 DATE 30 SEP 1921
+1 FAMS @F23@
+1 FAMC @F17@
+0 @I63@ INDI
+1 NAME Celina /Guay/
+2 GIVN Celina
+2 SURN Guay
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX F
+1 DEAT Y
+1 FAMS @F23@
+0 @I64@ INDI
+1 NAME Louis-Loter /Lasalle Dit Sanschagrin/
+2 GIVN Louis-Loter
+2 SURN Lasalle Dit Sanschagrin
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX M
+1 BIRT
+2 DATE 22 APR 1833
+1 DEAT Y
+2 DATE 3 JAN 1865
+1 FAMC @F17@
+0 @I65@ INDI
+1 NAME Basile-Cyprien /Lasalle Dit Sanschagrin/
+2 GIVN Basile-Cyprien
+2 SURN Lasalle Dit Sanschagrin
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX M
+1 BIRT
+2 DATE 12 JAN 1835
+1 DEAT Y
+2 DATE 24 DEC 1866
+1 NOTE Bio notes: Noye vis-a-vis la Pointe-Levis
+1 FAMS @F24@
+1 FAMC @F17@
+0 @I66@ INDI
+1 NAME Josephte /Fagot/
+2 GIVN Josephte
+2 SURN Fagot
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX F
+1 DEAT Y
+1 FAMS @F24@
+0 @I67@ INDI
+1 NAME Marie-Archange /Lasalle Dit Sanschagrin/
+2 GIVN Marie-Archange
+2 SURN Lasalle Dit Sanschagrin
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX F
+1 BIRT
+2 DATE 9 APR 1836
+1 DEAT Y
+2 DATE OCT 1842
+1 FAMC @F17@
+0 @I68@ INDI
+1 NAME Philomene /Lasalle Dit Sanschagrin/
+2 GIVN Philomene
+2 SURN Lasalle Dit Sanschagrin
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX M
+1 BIRT
+2 DATE 11 JUL 1838
+1 DEAT Y
+2 DATE 4 AUG 1838
+1 FAMC @F17@
+0 @I69@ INDI
+1 NAME Marie-Lea /Lasalle Dit Sanschagrin/
+2 GIVN Marie-Lea
+2 SURN Lasalle Dit Sanschagrin
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX F
+1 BIRT
+2 DATE 1839
+1 DEAT Y
+2 DATE 1840
+1 FAMC @F17@
+0 @I70@ INDI
+1 NAME Francois-Sauveur /Lasalle Dit Sanschagrin/
+2 GIVN Francois-Sauveur
+2 SURN Lasalle Dit Sanschagrin
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX M
+1 BIRT
+2 DATE 9 DEC 1839
+1 DEAT Y
+2 DATE SEP 1882
+1 FAMS @F25@
+1 FAMC @F17@
+0 @I71@ INDI
+1 NAME Catherine /Pouliot/
+2 GIVN Catherine
+2 SURN Pouliot
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX F
+1 BIRT
+2 DATE 1863
+1 DEAT Y
+1 FAMS @F25@
+0 @I72@ INDI
+1 NAME Marie-Madeleine /Labbe/
+2 GIVN Marie-Madeleine
+2 SURN Labbe
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX F
+1 BIRT
+2 DATE 6 APR 1806
+1 DEAT Y
+1 FAMS @F20@
+0 @I73@ INDI
+1 NAME Rene /Lasalle Dit Sanschagrin/
+2 GIVN Rene
+2 SURN Lasalle Dit Sanschagrin
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX M
+1 BIRT
+2 DATE 28 DEC 1844
+1 DEAT Y
+2 DATE 1927
+1 FAMS @F26@
+1 FAMC @F20@
+0 @I74@ INDI
+1 NAME Sophie /Lasalle Dit Sanschagrin/
+2 GIVN Sophie
+2 SURN Lasalle Dit Sanschagrin
+2 _MARNM Emond
+1 SEX F
+1 BIRT
+2 DATE 1847
+1 DEAT Y
+2 DATE 1972
+1 FAMS @F27@
+1 FAMC @F20@
+0 @I75@ INDI
+1 NAME Francois /Emond/
+2 GIVN Francois
+2 SURN Emond
+2 _MARNM Emond
+1 SEX M
+1 FAMS @F27@
+0 @I76@ INDI
+1 NAME Basile /Lasalle Dit Sanschagrin/
+2 GIVN Basile
+2 SURN Lasalle Dit Sanschagrin
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX M
+1 BIRT
+2 DATE 1772
+1 DEAT Y
+2 DATE 1836
+1 FAMS @F21@
+1 FAMC @F28@
+0 @I77@ INDI
+1 NAME Marie /Gagne/
+2 GIVN Marie
+2 SURN Gagne
+2 _MARNM Lasalle Sanschagrin
+1 SEX F
+1 DEAT Y
+2 DATE 1812
+1 FAMS @F21@
+1 FAMC @F29@
+0 @I78@ INDI
+1 NAME Basile
+2 GIVN Basile
+1 SEX M
+1 BIRT
+2 DATE 1797
+1 DEAT Y
+2 DATE 1799
+1 FAMC @F21@
+0 @I79@ INDI
+1 NAME Marie-Madeleine /Lasalle Dit Sanschagrin/
+2 GIVN Marie-Madeleine
+2 SURN Lasalle Dit Sanschagrin
+2 _MARNM Drouin
+1 SEX F
+1 BIRT
+2 DATE 1800
+1 DEAT Y
+2 DATE 1846
+1 FAMS @F30@
+1 FAMC @F21@
+0 @I80@ INDI
+1 NAME Pierre /Drouin/
+2 GIVN Pierre
+2 SURN Drouin
+2 _MARNM Drouin
+1 SEX M
+1 DEAT Y
+1 FAMS @F30@
+0 @I81@ INDI
+1 NAME Catherine /Dion/
+2 GIVN Catherine
+2 SURN Dion
+2 _MARNM Dion
+1 SEX F
+1 BIRT
+2 DATE 1802
+1 DEAT Y
+2 DATE 1880
+1 FAMS @F31@
+1 FAMC @F21@
+0 @I82@ INDI
+1 NAME Francois /Dion/
+2 GIVN Francois
+2 SURN Dion
+2 _MARNM Dion
+1 SEX M
+1 DEAT Y
+1 FAMS @F31@
+0 @I83@ INDI
+1 NAME Marie-Josephte /Lasalle Dit Sanschagrin/
+2 GIVN Marie-Josephte
+2 SURN Lasalle Dit Sanschagrin
+2 _MARNM Canac-Marquis
+1 SEX F
+1 BIRT
+2 DATE 29 SEP 1803
+2 PLAC St-Jean, I.O.
+1 DEAT Y
+2 DATE OCT 1890
+2 PLAC Ste-Brigitte-de-Laval
+1 BURI
+2 DATE 6 OCT 1890
+2 PLAC Ste-Brigitte-de-Laval
+1 FAMS @F32@
+1 FAMC @F21@
+0 @I84@ INDI
+1 NAME Francois /Canac-Marquis/
+2 GIVN Francois
+2 SURN Canac-Marquis
+2 _MARNM Canac-Marquis
+1 SEX M
+1 DEAT Y
+1 FAMS @F32@
+0 @I85@ INDI
+1 NAME Basile /Lasalle Dit Sanschagrin/
+2 GIVN Basile
+2 SURN Lasalle Dit Sanschagrin
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX M
+1 BIRT
+2 DATE 29 AUG 1805
+2 PLAC St-François,I.O
+1 DEAT Y
+2 DATE 11 JUL 1865
+1 BURI
+2 DATE 11 JUL 1865
+2 PLAC St-Roch de Québec
+1 FAMS @F33@
+1 FAMS @F34@
+1 FAMS @F35@
+1 FAMC @F21@
+0 @I86@ INDI
+1 NAME Jean-Marie /Lasalle Dit Sanschagrin/
+2 GIVN Jean-Marie
+2 SURN Lasalle Dit Sanschagrin
+2 _MARNM Dion
+1 SEX F
+1 BIRT
+2 DATE 12 AUG 1807
+2 PLAC Ste-Famille
+1 DEAT Y
+2 DATE SEP 1879
+1 BURI
+2 DATE 22 SEP 1879
+2 PLAC St-Roch de Québec
+1 FAMS @F36@
+1 FAMC @F21@
+0 @I87@ INDI
+1 NAME Marie-Justine /Lasalle Dit Sanschagrin/
+2 GIVN Marie-Justine
+2 SURN Lasalle Dit Sanschagrin
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX F
+1 BIRT
+2 DATE 7 MAY 1809
+2 PLAC St-François, I.O.
+1 DEAT Y
+2 DATE 3 MAR 1810
+2 PLAC St-François, I.O.
+1 BURI
+2 DATE 4 MAR 1810
+2 PLAC St-François, I.O.
+1 FAMC @F21@
+0 @I88@ INDI
+1 NAME Marie-Julienne /Lasalle Dit Sanschagrin/
+2 GIVN Marie-Julienne
+2 SURN Lasalle Dit Sanschagrin
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX F
+1 BIRT
+2 DATE 7 MAY 1809
+2 PLAC St-François, I.O.
+1 DEAT Y
+2 DATE 2 OCT 1809
+2 PLAC St-François, I.O.
+1 BURI
+2 DATE 3 OCT 1809
+2 PLAC St-François, I.O.
+1 FAMC @F21@
+0 @I89@ INDI
+1 NAME Joseph /Lasalle Dit Sanschagrin/
+2 GIVN Joseph
+2 SURN Lasalle Dit Sanschagrin
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX M
+1 BIRT
+2 DATE 9 AUG 1810
+2 PLAC St-Francois, I.O.
+1 DEAT Y
+2 DATE 5 JUL 1868
+1 BURI
+2 DATE 7 JUL 1868
+2 PLAC St-Roch de Québec
+1 FAMS @F37@
+1 FAMC @F21@
+0 @I90@ INDI
+1 NAME Pierre /Lasalle Dit Sanschagrin/
+2 GIVN Pierre
+2 SURN Lasalle Dit Sanschagrin
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX M
+1 BIRT
+2 DATE 3 MAY 1812
+2 PLAC St-François,I.O
+1 DEAT Y
+2 DATE MAY 1889
+2 PLAC Laval
+1 BURI
+2 DATE 18 MAY 1889
+2 PLAC Ste-Brigitte-de-Laval
+1 FAMS @F38@
+1 FAMS @F39@
+1 FAMC @F21@
+0 @I91@ INDI
+1 NAME Francois /Lasalle Dit Sanschagrin/
+2 GIVN Francois
+2 SURN Lasalle Dit Sanschagrin
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX M
+1 BIRT
+2 PLAC Palluaud, Angoumois, France (Château-Richer)
+1 DEAT Y
+2 DATE 16 JAN 1798
+1 FAMS @F28@
+1 FAMC @F40@
+0 @I92@ INDI
+1 NAME Marguerite /Gagnon/
+2 GIVN Marguerite
+2 SURN Gagnon
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX F
+1 DEAT Y
+1 FAMS @F28@
+1 FAMC @F41@
+0 @I93@ INDI
+1 NAME Francois /Gagnon/
+2 GIVN Francois
+2 SURN Gagnon
+2 _MARNM Gagnon
+1 SEX M
+1 DEAT Y
+1 FAMS @F41@
+1 FAMC @F42@
+0 @I94@ INDI
+1 NAME Marie-Reine /Mercier/
+2 GIVN Marie-Reine
+2 SURN Mercier
+2 _MARNM Gagnon
+1 SEX F
+1 DEAT Y
+1 FAMS @F41@
+1 FAMC @F43@
+0 @I95@ INDI
+1 NAME Pierre /Gagne/
+2 GIVN Pierre
+2 SURN Gagne
+2 _MARNM Gagne
+1 SEX M
+1 DEAT Y
+1 FAMS @F29@
+1 FAMC @F44@
+0 @I96@ INDI
+1 NAME Marie /de Plante/
+2 GIVN Marie
+2 SURN de Plante
+2 _MARNM Gagne
+1 SEX F
+1 DEAT Y
+1 FAMS @F29@
+1 FAMC @F45@
+0 @I97@ INDI
+1 NAME Denis /Gagne/
+2 GIVN Denis
+2 SURN Gagne
+2 _MARNM Gagne
+1 SEX M
+1 DEAT Y
+1 FAMS @F44@
+1 FAMC @F46@
+0 @I98@ INDI
+1 NAME Angelique /Greyeu Dit Dion/
+2 GIVN Angelique
+2 SURN Greyeu Dit Dion
+1 SEX F
+1 DEAT Y
+1 FAMS @F44@
+1 FAMC @F47@
+0 @I99@ INDI
+1 NAME Pierre /Plante/
+2 GIVN Pierre
+2 SURN Plante
+2 _MARNM Plante
+1 SEX M
+1 DEAT Y
+1 FAMS @F45@
+0 @I100@ INDI
+1 NAME May /Couchon Dit Laverdine/
+2 GIVN May
+2 SURN Couchon Dit Laverdine
+2 _MARNM Couchon Dit Laverdine
+1 SEX F
+1 DEAT Y
+1 FAMS @F45@
+1 FAMC @F48@
+0 @I101@ INDI
+1 NAME Leonard /de la Salle/
+2 GIVN Leonard
+2 SURN de la Salle
+2 _MARNM de la Salle
+1 SEX M
+1 BIRT
+2 PLAC France
+1 DEAT Y
+1 FAMS @F40@
+0 @I102@ INDI
+1 NAME Marie /Ringuet/
+2 GIVN Marie
+2 SURN Ringuet
+2 _MARNM de la Salle
+1 SEX F
+1 BIRT
+2 PLAC France
+1 DEAT Y
+1 FAMS @F40@
+0 @I103@ INDI
+1 NAME Francois /Gagnon/
+2 GIVN Francois
+2 SURN Gagnon
+2 _MARNM Gagnon
+1 SEX M
+1 DEAT Y
+1 FAMS @F42@
+0 @I104@ INDI
+1 NAME Mary /Belanger/
+2 GIVN Mary
+2 SURN Belanger
+2 _MARNM Gagnon
+1 SEX F
+1 DEAT Y
+1 FAMS @F42@
+0 @I105@ INDI
+1 NAME Charles /Mercier/
+2 GIVN Charles
+2 SURN Mercier
+2 _MARNM Mercier
+1 SEX M
+1 DEAT Y
+1 FAMS @F43@
+0 @I106@ INDI
+1 NAME Anne /Berthelot/
+2 GIVN Anne
+2 SURN Berthelot
+2 _MARNM Mercier
+1 SEX F
+1 DEAT Y
+1 FAMS @F43@
+0 @I107@ INDI
+1 NAME Jean /Guyeu Dit Dion/
+2 GIVN Jean
+2 SURN Guyeu Dit Dion
+2 _MARNM Guyeu Dit Dion
+1 SEX M
+1 DEAT Y
+1 FAMS @F47@
+0 @I108@ INDI
+1 NAME Marie /Pépin Dit Lachance/
+2 GIVN Marie
+2 SURN Pépin Dit Lachance
+2 _MARNM Guym Dit Dieu
+1 SEX F
+1 DEAT Y
+1 FAMS @F47@
+0 @I109@ INDI
+1 NAME Louis /Gagne/
+2 GIVN Louis
+2 SURN Gagne
+2 _MARNM Gagne
+1 SEX M
+1 DEAT Y
+1 FAMS @F46@
+0 @I110@ INDI
+1 NAME Marie /Gagnon/
+2 GIVN Marie
+2 SURN Gagnon
+2 _MARNM Gagne
+1 SEX F
+1 DEAT Y
+1 FAMS @F46@
+0 @I111@ INDI
+1 NAME Louis /Couchon Dit Laverdine/
+2 GIVN Louis
+2 SURN Couchon Dit Laverdine
+2 _MARNM Couchon Dit Laverdine
+1 SEX M
+1 DEAT Y
+1 FAMS @F48@
+0 @I112@ INDI
+1 NAME Catherine /Dumes/
+2 GIVN Catherine
+2 SURN Dumes
+2 _MARNM Cauilion Dit Laverdine
+1 SEX F
+1 DEAT Y
+1 FAMS @F48@
+0 @I113@ INDI
+1 NAME Jean /Pouliet/
+2 GIVN Jean
+2 SURN Pouliet
+2 _MARNM Pouliet
+1 SEX M
+1 DEAT Y
+1 FAMS @F18@
+1 FAMC @F49@
+0 @I114@ INDI
+1 NAME Francoise /Baucher/
+2 GIVN Francoise
+2 SURN Baucher
+2 _MARNM Pouliet
+1 SEX F
+1 DEAT Y
+1 FAMS @F18@
+0 @I115@ INDI
+1 NAME Joseph /Maillet/
+2 GIVN Joseph
+2 SURN Maillet
+2 _MARNM Maillet
+1 SEX M
+1 FAMS @F11@
+1 FAMC @F50@
+0 @I116@ INDI
+1 NAME Genevieve /Peurault/
+2 GIVN Genevieve
+2 SURN Peurault
+2 _MARNM Maillet
+1 SEX F
+1 FAMS @F11@
+1 FAMC @F51@
+0 @I117@ INDI
+1 NAME Jerome /Guérin St-Hilaire/
+2 GIVN Jerome
+2 SURN Guérin St-Hilaire
+2 _MARNM Guérin St-Hilaire
+1 SEX M
+1 DEAT Y
+1 FAMS @F12@
+0 @I118@ INDI
+1 NAME Brigitte /Dugrenier Dit Perron/
+2 GIVN Brigitte
+2 SURN Dugrenier Dit Perron
+2 _MARNM St-Hilaire
+1 SEX F
+1 DEAT Y
+1 FAMS @F12@
+0 @I119@ INDI
+1 NAME Jean-Louis /Maillet/
+2 GIVN Jean-Louis
+2 SURN Maillet
+2 _MARNM Maillet
+1 SEX M
+1 FAMS @F50@
+0 @I120@ INDI
+1 NAME Marie-Charlotte /Bauosse/
+2 GIVN Marie-Charlotte
+2 SURN Bauosse
+2 _MARNM Maillet
+1 SEX F
+1 FAMS @F50@
+0 @I121@ INDI
+1 NAME Michel /Peurault/
+2 GIVN Michel
+2 SURN Peurault
+2 _MARNM Peurault
+1 SEX M
+1 FAMS @F51@
+0 @I122@ INDI
+1 NAME Charlotte /Parent/
+2 GIVN Charlotte
+2 SURN Parent
+2 _MARNM Peurault
+1 SEX F
+1 FAMS @F51@
+0 @I123@ INDI
+1 NAME Jean /Pouliot/
+2 GIVN Jean
+2 SURN Pouliot
+2 _MARNM Pouliot
+1 SEX M
+1 DEAT Y
+1 FAMS @F49@
+1 FAMC @F52@
+0 @I124@ INDI
+1 NAME Madeline /Dutil/
+2 GIVN Madeline
+2 SURN Dutil
+2 _MARNM Pouliot
+1 SEX F
+1 DEAT Y
+1 FAMS @F49@
+1 FAMC @F53@
+0 @I125@ INDI
+1 NAME Antoine /Dutil/
+2 GIVN Antoine
+2 SURN Dutil
+2 _MARNM Dutil
+1 SEX M
+1 DEAT Y
+1 FAMS @F53@
+0 @I126@ INDI
+1 NAME Marguerite /Adam/
+2 GIVN Marguerite
+2 SURN Adam
+2 _MARNM Dutil
+1 SEX F
+1 DEAT Y
+1 FAMS @F53@
+0 @I127@ INDI
+1 NAME Nicole
+2 GIVN Nicole
+1 SEX M
+1 DEAT Y
+1 FAMS @F52@
+0 @I128@ INDI
+1 NAME Louise /Mercier/
+2 GIVN Louise
+2 SURN Mercier
+2 _MARNM Pouliot
+1 SEX F
+1 DEAT Y
+1 FAMS @F52@
+0 @I129@ INDI
+1 NAME Adélaide /Emond/
+2 GIVN Adélaide
+2 SURN Emond
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX F
+1 FAMS @F26@
+0 @I130@ INDI
+1 NAME René /Lasalle Dit Sanschagrin/
+2 GIVN René
+2 SURN Lasalle Dit Sanschagrin
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX M
+1 DEAT Y
+1 FAMS @F54@
+1 FAMC @F26@
+0 @I131@ INDI
+1 NAME Adèle /Paquet/
+2 GIVN Adèle
+2 SURN Paquet
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX F
+1 DEAT Y
+1 FAMS @F54@
+0 @I132@ INDI
+1 NAME Marie-Anne /Lasalle Dit Sanschagrin/
+2 GIVN Marie-Anne
+2 SURN Lasalle Dit Sanschagrin
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX F
+1 DEAT Y
+1 FAMS @F55@
+1 FAMC @F54@
+0 @I133@ INDI
+1 NAME Rosario Lepage /Lepage/
+2 GIVN Rosario Lepage
+2 SURN Lepage
+2 _MARNM Lepage
+1 SEX M
+1 DEAT Y
+1 FAMS @F55@
+0 @I134@ INDI
+1 NAME Joseph René Cléophas /Lasalle Dit Sanschagrin/
+2 GIVN Joseph René Cléophas
+2 SURN Lasalle Dit Sanschagrin
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX M
+1 BIRT
+2 PLAC St-Francois, I,O
+1 DEAT Y
+1 FAMS @F56@
+1 FAMC @F54@
+0 @I135@ INDI
+1 NAME Marie Marguerite Lucienne Joséphine /Lasalle Dit Sanschagrin/
+2 GIVN Marie Marguerite Lucienne Joséphine
+2 SURN Lasalle Dit Sanschagrin
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX F
+1 DEAT Y
+1 FAMS @F56@
+0 @I136@ INDI
+1 NAME Anne /Samson/
+2 GIVN Anne
+2 SURN Samson
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX F
+1 DEAT Y
+1 FAMS @F39@
+0 @I137@ INDI
+1 NAME Herzélie Guay /Lasalle Dit Sanschagrin/
+2 GIVN Herzélie Guay
+2 SURN Lasalle Dit Sanschagrin
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX F
+1 DEAT Y
+1 FAMS @F38@
+0 @I138@ INDI
+1 NAME Angèle /Guay/
+2 GIVN Angèle
+2 SURN Guay
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX F
+1 DEAT Y
+1 FAMS @F37@
+0 @I139@ INDI
+1 NAME Scolastique /Dion/
+2 GIVN Scolastique
+2 SURN Dion
+2 _MARNM Dion
+1 SEX M
+1 DEAT Y
+1 FAMS @F36@
+0 @I140@ INDI
+1 NAME Catherine /Nadeau/
+2 GIVN Catherine
+2 SURN Nadeau
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX F
+1 DEAT Y
+1 FAMS @F34@
+0 @I141@ INDI
+1 NAME Emérence /Blais/
+2 GIVN Emérence
+2 SURN Blais
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX F
+1 DEAT Y
+1 FAMS @F35@
+0 @I142@ INDI
+1 NAME Marie /Allaire/
+2 GIVN Marie
+2 SURN Allaire
+2 _MARNM Lasalle Dit Sanschagrin
+1 SEX F
+1 DEAT Y
+1 FAMS @F33@
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I2@
+1 CHIL @I3@
+1 CHIL @I4@
+1 CHIL @I5@
+1 MARR
+2 DATE 1 NOV 1986
+1 _CURRENT Y
+0 @F2@ FAM
+1 HUSB @I6@
+1 WIFE @I7@
+1 CHIL @I1@
+1 CHIL @I8@
+1 MARR
+2 DATE 30 APR 1941
+2 PLAC Sacre-Coeur d'Ottawa
+1 _CURRENT Y
+0 @F3@ FAM
+1 HUSB @I9@
+1 WIFE @I10@
+1 CHIL @I2@
+1 CHIL @I11@
+1 CHIL @I12@
+1 CHIL @I13@
+1 CHIL @I14@
+1 _CURRENT Y
+0 @F4@ FAM
+1 HUSB @I20@
+1 WIFE @I21@
+1 CHIL @I6@
+1 CHIL @I24@
+1 CHIL @I25@
+1 CHIL @I26@
+1 CHIL @I27@
+1 CHIL @I28@
+1 CHIL @I29@
+1 CHIL @I32@
+1 CHIL @I34@
+1 CHIL @I35@
+1 CHIL @I36@
+1 MARR
+2 DATE 3 FEB 1896
+2 PLAC Ste-Marie de Beauce
+1 _CURRENT Y
+0 @F5@ FAM
+1 HUSB @I18@
+1 WIFE @I19@
+1 CHIL @I7@
+1 _CURRENT Y
+0 @F6@ FAM
+1 HUSB @I8@
+1 WIFE @I17@
+1 _CURRENT Y
+0 @F7@ FAM
+1 HUSB @I15@
+1 WIFE @I16@
+1 CHIL @I9@
+1 _CURRENT Y
+0 @F8@ FAM
+1 CHIL @I10@
+1 _CURRENT N
+0 @F9@ FAM
+1 HUSB @I45@
+1 WIFE @I46@
+1 CHIL @I20@
+1 CHIL @I47@
+1 CHIL @I48@
+1 CHIL @I49@
+1 CHIL @I50@
+1 CHIL @I52@
+1 CHIL @I53@
+1 CHIL @I54@
+1 CHIL @I55@
+1 MARR
+2 DATE 13 JAN 1852
+2 PLAC Notre-Dame de Levis
+1 _CURRENT Y
+0 @F10@ FAM
+1 HUSB @I22@
+1 WIFE @I23@
+1 CHIL @I21@
+1 MARR
+2 DATE 11 JUL 1965
+2 PLAC Ste-Marie de Beauce
+1 _CURRENT Y
+0 @F11@ FAM
+1 HUSB @I115@
+1 WIFE @I116@
+1 CHIL @I22@
+1 MARR
+2 DATE 2 MAY 1814
+1 _CURRENT Y
+0 @F12@ FAM
+1 HUSB @I117@
+1 WIFE @I118@
+1 CHIL @I23@
+1 MARR
+2 DATE 30 JAN 1838
+2 PLAC St-Joseph de Beauce Qb
+1 _CURRENT Y
+0 @F13@ FAM
+1 HUSB @I30@
+1 WIFE @I24@
+1 MARR
+2 DATE 12 MAY 1945
+2 PLAC Notre-Dam d'Ottawa
+1 _CURRENT Y
+0 @F14@ FAM
+1 HUSB @I26@
+1 WIFE @I31@
+1 CHIL @I38@
+1 CHIL @I39@
+1 CHIL @I40@
+1 CHIL @I41@
+1 CHIL @I42@
+1 CHIL @I43@
+1 CHIL @I44@
+1 MARR
+2 DATE 21 APR 1920
+2 PLAC St Francois d'Assise d'Ottawa
+1 _CURRENT Y
+0 @F15@ FAM
+1 HUSB @I33@
+1 WIFE @I32@
+1 MARR
+2 DATE MAY 1932
+2 PLAC Notre-Dame d'Ottawa
+1 _CURRENT Y
+0 @F16@ FAM
+1 HUSB @I37@
+1 WIFE @I36@
+1 MARR
+2 DATE 1954
+2 PLAC Notre-Dame d'Ottawa
+1 _CURRENT Y
+0 @F17@ FAM
+1 HUSB @I56@
+1 WIFE @I57@
+1 CHIL @I45@
+1 CHIL @I58@
+1 CHIL @I59@
+1 CHIL @I60@
+1 CHIL @I62@
+1 CHIL @I64@
+1 CHIL @I65@
+1 CHIL @I67@
+1 CHIL @I68@
+1 CHIL @I69@
+1 CHIL @I70@
+1 MARR
+2 DATE 26 OCT 1824
+2 PLAC Ste-Famille, I.O
+1 EVEN
+2 TYPE Ending
+1 _CURRENT N
+0 @F20@ FAM
+1 HUSB @I56@
+1 WIFE @I72@
+1 CHIL @I73@
+1 CHIL @I74@
+1 _CURRENT Y
+0 @F18@ FAM
+1 HUSB @I113@
+1 WIFE @I114@
+1 CHIL @I46@
+1 MARR
+2 DATE 3 FEB 1824
+2 PLAC St-Gervais
+1 _CURRENT Y
+0 @F19@ FAM
+1 HUSB @I50@
+1 WIFE @I51@
+1 MARR
+2 DATE 27 OCT 1879
+2 PLAC Notre-Dame de Levis
+1 _CURRENT Y
+0 @F21@ FAM
+1 HUSB @I76@
+1 WIFE @I77@
+1 CHIL @I56@
+1 CHIL @I78@
+1 CHIL @I79@
+1 CHIL @I81@
+1 CHIL @I83@
+1 CHIL @I85@
+1 CHIL @I86@
+1 CHIL @I87@
+1 CHIL @I88@
+1 CHIL @I89@
+1 CHIL @I90@
+1 _CURRENT Y
+0 @F22@ FAM
+1 HUSB @I60@
+1 WIFE @I61@
+1 _CURRENT Y
+0 @F23@ FAM
+1 HUSB @I62@
+1 WIFE @I63@
+1 _CURRENT Y
+0 @F24@ FAM
+1 HUSB @I65@
+1 WIFE @I66@
+1 _CURRENT Y
+0 @F25@ FAM
+1 HUSB @I70@
+1 WIFE @I71@
+1 _CURRENT Y
+0 @F26@ FAM
+1 HUSB @I73@
+1 WIFE @I129@
+1 CHIL @I130@
+1 MARR
+2 DATE 12 JAN 1869
+2 PLAC St-Francois, I.O
+1 _CURRENT Y
+0 @F27@ FAM
+1 HUSB @I75@
+1 WIFE @I74@
+1 _CURRENT Y
+0 @F28@ FAM
+1 HUSB @I91@
+1 WIFE @I92@
+1 CHIL @I76@
+1 MARR
+2 DATE 25 FEB 1759
+2 PLAC Château-Richer
+1 _CURRENT Y
+0 @F29@ FAM
+1 HUSB @I95@
+1 WIFE @I96@
+1 CHIL @I77@
+1 MARR
+2 DATE 4 OCT 1773
+2 PLAC St-Francois I.O
+1 _CURRENT Y
+0 @F30@ FAM
+1 HUSB @I80@
+1 WIFE @I79@
+1 _CURRENT Y
+0 @F31@ FAM
+1 HUSB @I82@
+1 WIFE @I81@
+1 _CURRENT Y
+0 @F32@ FAM
+1 HUSB @I84@
+1 WIFE @I83@
+1 _CURRENT Y
+0 @F33@ FAM
+1 HUSB @I85@
+1 WIFE @I142@
+1 MARR
+2 DATE 3 SEP 1850
+2 PLAC St-Roch de québec
+1 _CURRENT Y
+0 @F34@ FAM
+1 HUSB @I85@
+1 WIFE @I140@
+1 MARR
+2 DATE 13 FEB 1827
+1 EVEN
+2 TYPE Ending
+1 _CURRENT N
+0 @F35@ FAM
+1 HUSB @I85@
+1 WIFE @I141@
+1 MARR
+2 DATE 25 MAY 1841
+2 PLAC St-Roch de Québec
+1 EVEN
+2 TYPE Ending
+1 _CURRENT N
+0 @F36@ FAM
+1 HUSB @I139@
+1 WIFE @I86@
+1 MARR
+2 DATE 1 FEB 1831
+2 PLAC St-François,I.O
+1 _CURRENT Y
+0 @F37@ FAM
+1 HUSB @I89@
+1 WIFE @I138@
+1 MARR
+2 DATE 27 APR 1841
+2 PLAC St-Roch de Québec
+1 _CURRENT Y
+0 @F38@ FAM
+1 HUSB @I90@
+1 WIFE @I137@
+1 MARR
+2 DATE 12 JAN 1864
+2 PLAC Ste-Brigitte-de-Laval
+1 _CURRENT Y
+0 @F39@ FAM
+1 HUSB @I90@
+1 WIFE @I136@
+1 MARR
+2 DATE 23 JUN 1840
+2 PLAC St-Roch de Québec
+1 EVEN
+2 TYPE Ending
+1 _CURRENT N
+0 @F40@ FAM
+1 HUSB @I101@
+1 WIFE @I102@
+1 CHIL @I91@
+1 MARR
+2 PLAC Palluaud
+1 _CURRENT Y
+0 @F41@ FAM
+1 HUSB @I93@
+1 WIFE @I94@
+1 CHIL @I92@
+1 MARR
+2 DATE 19 NOV 1731
+1 _CURRENT Y
+0 @F42@ FAM
+1 HUSB @I103@
+1 WIFE @I104@
+1 CHIL @I93@
+1 MARR
+2 DATE 25 JAN 1700
+1 _CURRENT Y
+0 @F43@ FAM
+1 HUSB @I105@
+1 WIFE @I106@
+1 CHIL @I94@
+1 MARR
+2 DATE 8 NOV 1691
+1 _CURRENT Y
+0 @F44@ FAM
+1 HUSB @I97@
+1 WIFE @I98@
+1 CHIL @I95@
+1 MARR
+2 DATE 11 NOV 1775
+1 _CURRENT Y
+0 @F45@ FAM
+1 HUSB @I99@
+1 WIFE @I100@
+1 CHIL @I96@
+1 MARR
+2 DATE 4 MAR 1726
+1 _CURRENT Y
+0 @F46@ FAM
+1 HUSB @I109@
+1 WIFE @I110@
+1 CHIL @I97@
+1 MARR
+2 DATE 19 FEB 1678
+1 _CURRENT Y
+0 @F47@ FAM
+1 HUSB @I107@
+1 WIFE @I108@
+1 CHIL @I98@
+1 MARR
+2 DATE 25 OCT 1688
+1 _CURRENT Y
+0 @F48@ FAM
+1 HUSB @I111@
+1 WIFE @I112@
+1 CHIL @I100@
+1 MARR
+2 DATE 21 JUL 1698
+1 _CURRENT Y
+0 @F49@ FAM
+1 HUSB @I123@
+1 WIFE @I124@
+1 CHIL @I113@
+1 MARR
+2 DATE 27 APR 1795
+2 PLAC St-Gervais Quebec
+1 _CURRENT Y
+0 @F50@ FAM
+1 HUSB @I119@
+1 WIFE @I120@
+1 CHIL @I115@
+1 MARR
+2 DATE 18 SEP 1764
+2 PLAC Lévis
+1 _CURRENT Y
+0 @F51@ FAM
+1 HUSB @I121@
+1 WIFE @I122@
+1 CHIL @I116@
+1 MARR
+2 DATE 31 JAN 1792
+2 PLAC Ste-Marie de Beau
+1 _CURRENT Y
+0 @F52@ FAM
+1 HUSB @I127@
+1 WIFE @I128@
+1 CHIL @I123@
+1 MARR
+2 DATE 24 OCT 1763
+2 PLAC St-Michel, Quebec
+1 _CURRENT Y
+0 @F53@ FAM
+1 HUSB @I125@
+1 WIFE @I126@
+1 CHIL @I124@
+1 MARR
+2 DATE 19 NOV 1764
+2 PLAC Beaumont, Quebec
+1 _CURRENT Y
+0 @F54@ FAM
+1 HUSB @I130@
+1 WIFE @I131@
+1 CHIL @I132@
+1 CHIL @I134@
+1 MARR
+2 DATE 17 JUL 1900
+2 PLAC Ste-Famille, I.O
+1 _CURRENT Y
+0 @F55@ FAM
+1 HUSB @I133@
+1 WIFE @I132@
+1 MARR
+2 DATE 11 AUG 1919
+2 PLAC St-François, I.O
+1 _CURRENT Y
+0 @F56@ FAM
+1 HUSB @I134@
+1 WIFE @I135@
+1 MARR
+2 DATE 10 DEC 1923
+2 PLAC St-Sauveur de Québec
+1 _CURRENT Y
+0 TRLR

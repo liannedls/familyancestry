@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './frontend/App';
 import Timelinepage from './frontend/TimelinePage';
-import Tree from './frontend/Tree.tsx';
+import Tree from './frontend/Tree';
 import Contact from './frontend/Contact';
 import { HashRouter, Route } from 'react-router-dom'
 import Navigation from './frontend/Navigation';
