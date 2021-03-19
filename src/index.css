@@ -5,14 +5,18 @@
   top: -35px;
 }
 
-.main {
-  margin-top: 100px;
-}
-
 .main h1 {
   background-color: white;
 }
 
 .main h2 {
   background-color: white;
+}
+
+#menu {
+  padding: 0;
+}
+
+.navbar {
+  margin-bottom: 0;
 }
