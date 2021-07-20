@@ -9,8 +9,8 @@ module.exports = {
     new CleanWebpackPlugin(),
     new HtmlWebpackPlugin({
       title: "blood lines",
-      template: "./src/index.html",
-      filename: "./index.html",
+      template: "./public/index.html",
+      filename: "./public/index.html",
     }),
   ],
   output: {
