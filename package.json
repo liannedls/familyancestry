@@ -1,6 +1,6 @@
 {
-  "name": "my-app",
-  "homepage": "https://www.joelcavelier.github.io",
+  "name": "ancestry",
+  "homepage": "https://ancestrysite.herokuapp.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -54,12 +54,10 @@
     "html-loader": "^2.0.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -b master",
-    "start": "react-scripts start",
-    "build": "react-scripts build && cp build/index.html build/404.html",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "dev": "react-scripts start",
+    "start": "serve -s build",
+    "build": "react-scripts build",
+    "heroku-postbuild": "npm run build"
   },
   "eslintConfig": {
     "extends": "react-app"
