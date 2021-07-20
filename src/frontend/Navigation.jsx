@@ -7,25 +7,23 @@ class Navigation extends Component {
 
   render() {
     return (
-        <nav id="menu" className="navbar navbar-default navbar-fixed-top">
+      <nav id="menu" className="navbar navbar-default navbar-fixed-top">
         <Navbar bg="light" expand="lg">
-          <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
+          {/* <Navbar.Brand href="#tree">Famille De La Salle</Navbar.Brand> */}
+          <h3>Famille De La Salle</h3>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="mr-auto">
-              <Nav.Link href="#tree">Tree</Nav.Link>
-              <Nav.Link href="#contact">Contact</Nav.Link>
-              <NavDropdown title="Dropdown" id="basic-nav-dropdown">
-                <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
-                <NavDropdown.Item href="#action/3.2">Another action</NavDropdown.Item>
-                <NavDropdown.Item href="#action/3.3">Something</NavDropdown.Item>
+              <Nav.Link href="#tree">Family Tree</Nav.Link>
+              <NavDropdown title="More" id="basic-nav-dropdown">
+                <NavDropdown.Item href="#timelinepage">Timeline</NavDropdown.Item>
                 <NavDropdown.Divider />
-                <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>
+                <NavDropdown.Item href="#contact">Contact</NavDropdown.Item>
               </NavDropdown>
             </Nav>
           </Navbar.Collapse>
         </Navbar>
-        </nav>
+      </nav>
     )
   }
 }
