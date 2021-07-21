@@ -10,7 +10,7 @@ class Navigation extends Component {
       <nav id="menu" className="navbar navbar-default navbar-fixed-top">
         <Navbar bg="light" expand="lg">
           {/* <Navbar.Brand href="#tree">Famille De La Salle</Navbar.Brand> */}
-          <h3>Famille De La Salle</h3>
+          <pre className="familyname">Famille De La Salle</pre>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="mr-auto">
