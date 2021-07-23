@@ -33,6 +33,12 @@
       "date": "1902-01-28",
       "text": "Jean Baptiste de la Salle is born",
       "src":"/img/JeanBaptisteAdolescent.jpg"
+    },
+    {
+      "date": "1916-01-01",
+      "text": "Battle for Francophone Education",
+      "src":"/img/1916.jpg",
+      "textBelow": "desc[See full article](/)"
     }
   ]
 }
