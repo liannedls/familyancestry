@@ -7,17 +7,18 @@ class Navigation extends Component {
 
   render() {
     return (
+      
       <nav id="menu" className="navbar navbar-default navbar-fixed-top">
         <Navbar bg="light" expand="lg">
           {/* <Navbar.Brand href="#tree">Famille De La Salle</Navbar.Brand> */}
-          <pre className="familyname">Famille De La Salle</pre>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="mr-auto">
               <Nav.Link href="#tree">Family Tree</Nav.Link>
+              <Nav.Link href="#timelinepage">Timeline</Nav.Link>
               <NavDropdown title="More" id="basic-nav-dropdown">
-                <NavDropdown.Item href="#timelinepage">Timeline</NavDropdown.Item>
-                <NavDropdown.Divider />
+                
+                {/* <NavDropdown.Divider /> */}
                 <NavDropdown.Item href="#contact">Contact</NavDropdown.Item>
               </NavDropdown>
             </Nav>
