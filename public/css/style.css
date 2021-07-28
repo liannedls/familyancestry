@@ -71,7 +71,6 @@ hr {
 }
 #menu pre {
 	font-size: 1.5rem;
-font-family: ;
 margin: auto;
 border-style:solid;
 font-size: large;
@@ -82,7 +81,7 @@ font-size: large;
 	box-shadow: 0 0 10px rgba(0,0,0,0.15)
 }
 #menu a.navbar-brand{
-	font-family: 'Raleway', sans-serif;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 	font-size: 24px;
 	font-weight: 700;
 	color: #333;
@@ -319,6 +318,25 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 #timeline .service-desc {
 	margin-bottom: 40px;
+}
+
+#timeline .timeline.container.alt-evts::after{
+	background-color: rgb(3, 41, 4);
+}
+
+#timeline time{
+	background-color: rgb(3, 41, 4);
+}
+
+#timeline .marker{
+	color: rgb(3, 41, 4);
+	border-color: rgb(165, 148, 148);
+	background-color: white
+}
+
+#timeline .marker-col{
+	color: rgb(3, 41, 4);
+	border-color: rgb(165, 148, 148);
 }
 /* tree Section */
 #tree{
