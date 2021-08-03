@@ -17,7 +17,6 @@ class Navigation extends Component {
               <Nav.Link href="#tree">Family Tree</Nav.Link>
               <Nav.Link href="#timelinepage">Timeline</Nav.Link>
               <NavDropdown title="More" id="basic-nav-dropdown">
-                
                 {/* <NavDropdown.Divider /> */}
                 <NavDropdown.Item href="#contact">Contact</NavDropdown.Item>
               </NavDropdown>

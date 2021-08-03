@@ -10,7 +10,7 @@ class TimelineElement extends Component {
     return (
         <div id="timeline">
         <Timeline>
-          <Events   styles = {{color:"red", backgroundColor:"red", width: "50%"}}>
+          <Events   styles = {{color:"blue", backgroundColor:"blue", width: "50%"}}>
           {result ? result.sort(function(a, b) {
         // convert date object into number to resolve issue in typescript
         return  +new Date(a.date) - +new Date(b.date);
