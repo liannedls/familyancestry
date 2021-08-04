@@ -250,6 +250,29 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	box-shadow: 10px 10px 10px rgba(0,0,0,.05);
 }
 
+#NotJustBricks {
+	padding: 10px 0;
+	background: rgb(236, 236, 234);
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	display: flex;
+	align-items: center;
+}
+
+#NotJustBricks #button_cust{
+	position: absolute !important;
+	top: 80px;
+	left: 10px;
+	background-color: pink;
+
+}
+#NotJustBricks img{
+	margin-left: auto;
+    margin-right: auto;
+	text-align: center;
+}
+
 /* timeline Section */
 #timeline {
 	padding: 100px 0;
@@ -311,7 +334,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 #timeline a {
 	font-weight: 400;
 	padding: 5px 0;
-	color: #ccffff
+	color: #8ca3a3
 }
 #timeline p {
 	color: rgba(255,255,255,.75);

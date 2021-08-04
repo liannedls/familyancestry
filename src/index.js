@@ -1,8 +1,10 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
+import Archive from "./frontend/Archive";
 import App from "./frontend/App";
 import Timelinepage from "./frontend/TimelinePage";
+import PageNotJustBricks from "./frontend/pages/NotJustBricks";
 import Tree from "./frontend/Tree";
 import Contact from "./frontend/Contact";
 import { HashRouter, Route } from "react-router-dom";
@@ -17,6 +19,7 @@ const routing = (
       <Route path="/timelinepage" component={Timelinepage} />
       <Route path="/contact" component={Contact} />
       <Route path="/tree" component={Tree} />
+      <Route path="/NotJustBricks" component={PageNotJustBricks} />
     </div>
   </HashRouter>
 );
