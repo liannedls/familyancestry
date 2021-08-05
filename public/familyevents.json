@@ -8,7 +8,7 @@
     {
       "date": "1994-04-21",
       "text": "Lianne de la Salle is born at the Ottawa Civic Hospital",
-      "textBelow": "desc[See more](/)",
+      "textBelow": "",
       "src": "/img/lianne.jpg"
     },{
       "date": "1990-02-28",
@@ -38,7 +38,7 @@
       "date": "1916-01-01",
       "text": "Battle for Francophone Education",
       "src":"/img/1916.jpg",
-      "textBelow": "[See full article](/NotJustBricks#/NotJustBricks)"
+      "textBelow": "[See full article](/#/NotJustBricks)"
     },
     {
       "date": "1913-06-22",
