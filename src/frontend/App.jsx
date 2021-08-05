@@ -6,8 +6,10 @@ class App extends Component {
 
     return (
       <div className="main" id="main">
-        <h1> Famille De La Salle</h1>
-        <h2></h2>
+        <h1> Bonjour! Voici la famille De La Salle</h1>
+        <a href="#tree">Explore notre arbre de famille </a>
+        <p>ou</p>
+        <a href="#timeline">Notre chronologie</a>
       </div>
     )
   }

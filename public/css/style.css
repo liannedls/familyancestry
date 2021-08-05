@@ -411,8 +411,24 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 .hover-bg:hover .hover-text {
 	opacity: 1;
 }
-#main{
-  background-color: #f0f0f0;
+#main p{
+	text-align: center;
+	color: #555;
+	display: block;
+	margin: 10px;
+padding: 10px;
+}
+#main a{
+	color: #555;
+	display: block;
+	text-align: center;
+	padding: 10px;
+}
+#main h1{
+	padding-top: 30px;
+	text-align: center;
+	color: #555;
+	
 }
 /* Contact Section */
 #contact {
