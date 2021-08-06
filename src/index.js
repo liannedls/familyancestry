@@ -5,6 +5,8 @@ import Archive from "./frontend/Archive";
 import App from "./frontend/App";
 import Timelinepage from "./frontend/TimelinePage";
 import PageNotJustBricks from "./frontend/pages/NotJustBricks";
+
+import FrançoisdelaSalle from "./frontend/pages/FrançoisdelaSalle";
 import Tree from "./frontend/Tree";
 import Contact from "./frontend/Contact";
 import { HashRouter, Route } from "react-router-dom";
@@ -20,6 +22,8 @@ const routing = (
       <Route path="/contact" component={Contact} />
       <Route path="/tree" component={Tree} />
       <Route path="/NotJustBricks" component={PageNotJustBricks} />
+
+      <Route path="/FrançoisdelaSalle" component={FrançoisdelaSalle} />
     </div>
   </HashRouter>
 );

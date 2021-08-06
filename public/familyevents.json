@@ -17,19 +17,25 @@
     },
     {
       "date": "1916-01-01",
-      "text": "Battle for Francophone Education",
+      "text": "Battle for Francophone Education. Ernestine de la Salle, assise la première à gauche, s'est illustrée à titre de 'gardienne'",
       "src":"/img/1916.jpg",
       "textBelow": "[See full article](/#/NotJustBricks)"
     },
     {
       "date": "1913-06-22",
-      "text": "Funeral for Robert De La Salle",
+      "text": "Le cortège funèbre de Robert de la Salle, noyé dans la rivière des Outaouais le 22 juin 1913, à l'âge de 9 ans",
       "src":"/img/death1.jpg"
     },
     {
-      "date": "1913-06-22",
-      "text": "",
-      "src":"/img/death2.jpg"
+      "date": "1938",
+      "text": "L-N-A de la Salle et son épouse Ernestine Maillet accompagnés de leur fille Jeannine, alors religieuse qui a plus tard quitté son ordre religieux pour se marier avec Gérald Gratton en 1954",
+      "src":"/img/3.jpg"
+    },
+    {
+      "date": "1759",
+      "text": "François de la Salle (dit Sanschagrin), caporal dans le Régiment de Berry sous la direction du marquis de Montcalm, est envoyées par la France afin de défendre la colonie contre une invasion imminente de l'armée britannique",
+      "src":"/img/plainsabraham.jpg", 
+      "textBelow": "[Lire d'avantage](/#/FrançoisdelaSalle)"
     }
   ]
 }
