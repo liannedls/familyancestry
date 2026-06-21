@@ -1,7 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import Archive from "./frontend/Archive";
 import App from "./frontend/App";
 import Timelinepage from "./frontend/TimelinePage";
 import PageNotJustBricks from "./frontend/pages/NotJustBricks";

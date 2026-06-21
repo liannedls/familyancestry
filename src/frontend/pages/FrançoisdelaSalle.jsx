@@ -17,7 +17,7 @@ Selon une coutume bien établie dans l'armée française de l'époque, il hérit
 Au moment de son mariage en février 1759, il est en quartier d'hiver chez un 'habitant', dont il marie la fille, Marguerite Gagnon. En effet, quelques mois avant la bataille des plaines d'Abraham(septembre 1759), Montcalm avait déployé ses troupes autour de Québec dans l'expectative d'une attaque.
 Réintégré à la vie civile, il a exercé le métier de cordonnier jusqu' à sa mort, survenue le  16-01-1798 à Ste Anne-de-Beaupré.
 </p>
-        <img src={ require('./img/plainsabraham.jpg') } />
+        <img src={ require('./img/plainsabraham.jpg') } alt="Plains of Abraham" />
       </div>
     )
   }

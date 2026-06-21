@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
-import Dropdown from 'react-bootstrap/Dropdown';
-import { Form, FormControl, Button, Nav, NavDropdown, Navbar } from "react-bootstrap";
+import { Nav, NavDropdown, Navbar } from "react-bootstrap";
 
 class Navigation extends Component {
 

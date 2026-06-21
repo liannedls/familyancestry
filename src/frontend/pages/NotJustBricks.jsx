@@ -11,7 +11,7 @@ export class NotJustBricks extends Component {
         <div id="button_cust">
         <Link to="/timelinepage" className="btn btn-primary">Back</Link>
         </div>
-        <img src={ require('./img/bricks_full.jpg') } />
+        <img src={ require('./img/bricks_full.jpg') } alt="Brick wall" />
       </div>
     )
   }
