@@ -69,13 +69,19 @@ hr {
 	padding: 15px;
 	transition: all 0.8s;
 }
+#menu pre {
+	font-size: 1.5rem;
+margin: auto;
+border-style:solid;
+font-size: large;
+}
 #menu.navbar-default {
 	background-color: #f0f0f0
 	border-color: rgba(231, 231, 231, 0);
 	box-shadow: 0 0 10px rgba(0,0,0,0.15)
 }
 #menu a.navbar-brand{
-	font-family: 'Raleway', sans-serif;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 	font-size: 24px;
 	font-weight: 700;
 	color: #333;
@@ -244,12 +250,49 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	box-shadow: 10px 10px 10px rgba(0,0,0,.05);
 }
 
+#NotJustBricks {
+	padding: 10px 0;
+	background: rgb(236, 236, 234);
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	display: flex;
+	align-items: center;
+}
+
+#button_cust{
+	position: absolute !important;
+	top: 80px;
+	left: 10px;
+	background-color: pink;
+
+}
+#NotJustBricks img{
+	margin-left: auto;
+    margin-right: auto;
+	text-align: center;
+}
+
+#abraham img{
+	height: 500px;
+	width: auto;
+	margin-left: auto;
+    margin-right: 0;
+	display: flex;
+	align-items: right;
+}
+
 /* timeline Section */
 #timeline {
 	padding: 100px 0;
 	background: #8ca3a3;
 
 }
+
+#timeline img {
+	max-height: none;
+}
+
 #timeline .service-desc {
 	margin: 10px 10px 20px;
 }
@@ -300,13 +343,32 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 #timeline a {
 	font-weight: 400;
 	padding: 5px 0;
-	color: #ccffff
+	color: #8ca3a3
 }
 #timeline p {
 	color: rgba(255,255,255,.75);
 }
 #timeline .service-desc {
 	margin-bottom: 40px;
+}
+
+#timeline .timeline.container.alt-evts::after{
+	background-color: rgb(3, 41, 4);
+}
+
+#timeline time{
+	background-color: rgb(3, 41, 4);
+}
+
+#timeline .marker{
+	color: rgb(3, 41, 4);
+	border-color: rgb(165, 148, 148);
+	background-color: white
+}
+
+#timeline .marker-col{
+	color: rgb(3, 41, 4);
+	border-color: rgb(165, 148, 148);
 }
 /* tree Section */
 #tree{
@@ -358,8 +420,24 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 .hover-bg:hover .hover-text {
 	opacity: 1;
 }
-#main{
-  background-color: #f0f0f0;
+#main p{
+	text-align: center;
+	color: #555;
+	display: block;
+	margin: 10px;
+padding: 10px;
+}
+#main a{
+	color: #555;
+	display: block;
+	text-align: center;
+	padding: 10px;
+}
+#main h1{
+	padding-top: 30px;
+	text-align: center;
+	color: #555;
+	
 }
 /* Contact Section */
 #contact {
@@ -493,3 +571,4 @@ color: #777;
 	margin: 50px 0;
 }
 }
+

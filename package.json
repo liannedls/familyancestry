@@ -22,7 +22,6 @@
     "gedcom-d3": "^2.0.6",
     "jquery": "^3.0.0",
     "moment": "^2.24.0",
-    "node-sass": "^4.14.1",
     "pinch-zoom-pan": "^2.0.0",
     "react": "^16.13.1",
     "react-alert": "^7.0.0",
@@ -55,9 +54,9 @@
     "html-loader": "^2.0.0"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
+    "start": "node --openssl-legacy-provider node_modules/react-scripts/scripts/start.js",
+    "build": "node --openssl-legacy-provider node_modules/react-scripts/scripts/build.js",
+    "test": "node --openssl-legacy-provider node_modules/react-scripts/scripts/test.js --env=jsdom",
     "eject": "react-scripts eject",
     "postinstall": "npm run build"
   },
