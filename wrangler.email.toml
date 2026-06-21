@@ -1,0 +1,6 @@
+name = "familyancestry-contact-email"
+main = "workers/contact-email.js"
+compatibility_date = "2026-06-21"
+
+[[send_email]]
+name = "EMAIL"

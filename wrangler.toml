@@ -1,6 +1,3 @@
 name = "familyancestry"
 compatibility_date = "2026-06-21"
 pages_build_output_dir = "build"
-
-[[send_email]]
-name = "EMAIL"
